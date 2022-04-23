@@ -1,4 +1,4 @@
-"ac" = (/obj/item/chair,/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"ac" = (/obj/item/chair,/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "aQ" = (/obj/machinery/portable_atmospherics/canister/bz,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "bu" = (/obj/item/mecha_parts/mecha_equipment/weapon/energy/tesla,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "bL" = (/obj/item/mecha_parts/mecha_equipment/weapon/energy/plasma,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
@@ -12,7 +12,7 @@
 "dy" = (/mob/living/simple_animal/hostile/giant_spider/hunter/flesh,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "dT" = (/obj/structure/railing,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "dY" = (/obj/structure/spider/stickyweb,/obj/structure/barricade/wooden,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"eH" = (/obj/structure/table/wood,/obj/item/flashlight/lantern,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"eH" = (/obj/structure/table/wood,/obj/item/flashlight/lantern,/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "eI" = (/obj/effect/mob_spawn/corpse/human/engineer,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "eV" = (/obj/effect/decal/cleanable/xenoblood/xgibs,/obj/effect/decal/cleanable/blood/tracks,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "fw" = (/obj/item/stack/ore/plasma{amount = 5},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
@@ -30,15 +30,15 @@
 "iz" = (/mob/living/simple_animal/hostile/giant_spider/tarantula{name = "Weed Guardian"; desc = "One might wonder what a spider wants with leftover cannabis."},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "iJ" = (/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "iN" = (/mob/living/simple_animal/hostile/giant_spider/nurse,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"jb" = (/turf/closed/wall,/area/awaymission/karlsmine/caves)
+"jb" = (/turf/closed/wall,/area/awaymission/karlsmine/gateway)
 "jh" = (/obj/item/stack/ore/uranium{amount = 8},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
-"jm" = (/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"jm" = (/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "jF" = (/obj/structure/spider/stickyweb,/obj/structure/spider/cocoon,/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/blood/gibs/up,/obj/item/clothing/suit/armor/vest/russian,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "jL" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/gibs/core,/obj/effect/decal/cleanable/blood/gibs/limb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "jS" = (/obj/item/tank/internals/plasma/full,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "ka" = (/obj/machinery/smoke_machine,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "kh" = (/obj/effect/decal/cleanable/blood/drip,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"kF" = (/obj/structure/table,/obj/item/storage/medkit/brute,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"kF" = (/obj/structure/table,/obj/item/storage/medkit/brute,/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "kS" = (/obj/effect/mob_spawn/corpse/human/charredskeleton,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "kT" = (/mob/living/simple_animal/hostile/giant_spider/hunter/scrawny,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "kV" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/footprints{dir = 4},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
@@ -50,7 +50,7 @@
 "md" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/giant_spider/hunter/flesh,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "mj" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/giant_spider/hunter/scrawny,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "mn" = (/obj/structure/spider/stickyweb,/obj/item/stack/ore/diamond{amount = 25},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"mH" = (/turf/closed/wall/rust,/area/awaymission/karlsmine/caves)
+"mH" = (/turf/closed/wall/rust,/area/awaymission/karlsmine/gateway)
 "ni" = (/mob/living/simple_animal/hostile/giant_spider/hunter/scrawny,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "nk" = (/turf/open/chasm,/area/awaymission/karlsmine/caves)
 "nl" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/gibs/old,/obj/item/clothing/head/helmet/old,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
@@ -59,7 +59,7 @@
 "oQ" = (/obj/structure/railing{dir = 4},/obj/item/stack/ore/titanium{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "oR" = (/obj/item/pickaxe/improvised,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "oZ" = (/obj/structure/spider/stickyweb,/obj/structure/barricade/wooden/crude,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"pI" = (/obj/effect/decal/cleanable/blood/footprints{dir = 4},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"pI" = (/obj/effect/decal/cleanable/blood/footprints{dir = 4},/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "pZ" = (/obj/structure/mecha_wreckage/ripley/mk2,/obj/item/stack/ore/diamond{amount = 25},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "qt" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/drip,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "qu" = (/obj/structure/tank_holder/extinguisher,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
@@ -85,7 +85,7 @@
 "vH" = (/obj/structure/spider/stickyweb,/obj/structure/spider/cocoon,/obj/effect/decal/cleanable/blood,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "vI" = (/obj/structure/railing,/obj/item/stack/ore/bananium{amount = 5},/turf/open/floor/mineral/gold,/area/awaymission/karlsmine/caves)
 "we" = (/turf/closed/mineral,/area/space)
-"wx" = (/obj/machinery/vending/boozeomat/all_access,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"wx" = (/obj/machinery/vending/boozeomat/all_access,/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "wB" = (/obj/item/mecha_parts/chassis/ripley,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "xk" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/splatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "xn" = (/turf/closed/indestructible/rock,/area/awaymission/karlsmine/caves)
@@ -100,7 +100,7 @@
 "zn" = (/obj/machinery/portable_atmospherics/canister/plasma,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "zK" = (/obj/structure/railing,/turf/open/floor/plating/rust,/area/awaymission/karlsmine/caves)
 "Ak" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/tracks,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"AZ" = (/obj/structure/table,/obj/item/pickaxe{pixel_x = -5},/obj/item/gun/energy/recharge/kinetic_accelerator,/obj/item/gps/mining,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"AZ" = (/obj/structure/table,/obj/item/pickaxe{pixel_x = -5},/obj/item/gun/energy/recharge/kinetic_accelerator,/obj/item/gps/mining,/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "Bg" = (/obj/effect/decal/cleanable/blood/tracks{desc = "Your instincts say you shouldn't be following these."; dir = 8; icon_state = "ltrails_1"},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "Bu" = (/obj/structure/spider/stickyweb,/obj/structure/spider/cocoon,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "By" = (/obj/item/stack/ore/titanium{amount = 15},/obj/item/stack/ore/gold{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
@@ -109,7 +109,7 @@
 "Ci" = (/turf/closed/indestructible/reinforced,/area/awaymission/karlsmine/caves)
 "Ck" = (/obj/item/flashlight/lantern,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "Cq" = (/obj/item/stack/ore/plasma{amount = 5},/obj/item/stack/ore/gold{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
-"CV" = (/obj/structure/table/wood,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"CV" = (/obj/structure/table/wood,/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "Da" = (/obj/structure/railing{dir = 8},/obj/item/stack/sheet/bluespace_crystal,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "Df" = (/obj/item/knife/combat/bone,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "DB" = (/obj/effect/mob_spawn/corpse/human/miner,/obj/effect/decal/cleanable/blood/splatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
@@ -117,16 +117,16 @@
 "DV" = (/obj/item/paper{info = "Please do not dive into the mineral pool."; name = "Warning"; pixel_y = 20},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "Eg" = (/obj/item/fireaxe/boneaxe,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "En" = (/mob/living/simple_animal/hostile/giant_spider/hunter,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"Es" = (/obj/effect/decal/cleanable/oil/slippery,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Es" = (/obj/effect/decal/cleanable/oil/slippery,/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "EE" = (/obj/effect/decal/cleanable/blood,/obj/item/tank/internals/oxygen/empty,/turf/open/floor/plating/rust,/area/awaymission/karlsmine/caves)
 "EQ" = (/obj/effect/decal/cleanable/blood/tracks,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"ER" = (/obj/effect/decal/cleanable/blood/footprints{dir = 1},/obj/effect/decal/cleanable/blood/footprints{dir = 8},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"ER" = (/obj/effect/decal/cleanable/blood/footprints{dir = 1},/obj/effect/decal/cleanable/blood/footprints{dir = 8},/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "Fb" = (/obj/effect/decal/cleanable/xenoblood,/obj/effect/decal/cleanable/xenoblood/xgibs,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "Fh" = (/obj/effect/decal/cleanable/blood/gibs/down,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "Fj" = (/obj/effect/landmark/latejoin,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "Fl" = (/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "Fo" = (/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
-"Gm" = (/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Gm" = (/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "Gr" = (/obj/item/stack/ore/uranium{amount = 8},/obj/item/stack/ore/gold{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "GF" = (/turf/closed/mineral,/area/awaymission/karlsmine/caves)
 "GJ" = (/obj/effect/decal/cleanable/xenoblood/xgibs,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
@@ -147,7 +147,7 @@
 "LV" = (/obj/effect/decal/cleanable/blood/drip,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "LX" = (/obj/structure/spider/stickyweb,/obj/item/flashlight/lantern,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "Mp" = (/obj/effect/decal/cleanable/blood/gibs/core,/obj/effect/decal/cleanable/blood/splatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"MA" = (/obj/effect/decal/cleanable/blood/footprints{dir = 8},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"MA" = (/obj/effect/decal/cleanable/blood/footprints{dir = 8},/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "MF" = (/obj/effect/decal/cleanable/xenoblood/xsplatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "ML" = (/obj/item/pickaxe,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "MS" = (/obj/structure/mecha_wreckage/clarke,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
@@ -155,7 +155,7 @@
 "Om" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/gibs/up,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "Op" = (/mob/living/simple_animal/hostile/skeleton,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "Oy" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood,/obj/item/fireaxe/boneaxe,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"Py" = (/obj/structure/table,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Py" = (/obj/structure/table,/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "PB" = (/obj/item/grenade/smokebomb,/obj/item/book/granter/spell/smoke/lesser,/obj/structure/closet,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "PI" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/blood/splatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "PV" = (/obj/effect/decal/cleanable/blood/gibs/core,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
@@ -178,7 +178,7 @@
 "Uj" = (/obj/item/gun/energy/laser/thermal/inferno,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "Uo" = (/obj/structure/spider/stickyweb,/turf/open/chasm,/area/awaymission/karlsmine/caves)
 "UH" = (/obj/effect/decal/cleanable/blood/gibs,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"UI" = (/obj/machinery/door/airlock/external/ruin{welded = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"UI" = (/obj/machinery/door/airlock/external/ruin{welded = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "UO" = (/obj/effect/decal/cleanable/blood/gibs/core,/obj/effect/decal/cleanable/blood,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "Vr" = (/obj/structure/sign/poster/contraband/smoke,/turf/closed/mineral,/area/awaymission/karlsmine/caves)
 "Vw" = (/obj/structure/spider/stickyweb,/turf/closed/mineral/random/volcanic,/area/awaymission/karlsmine/caves)
@@ -194,16 +194,16 @@
 "XV" = (/obj/structure/railing{dir = 4},/obj/item/stack/ore/gold{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "XX" = (/obj/structure/spider/stickyweb,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "XY" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/xtracks,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"Ye" = (/obj/structure/table,/obj/item/kinetic_crusher{pixel_x = -5},/obj/item/kinetic_crusher{pixel_x = 5},/obj/item/kinetic_crusher,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Ye" = (/obj/structure/table,/obj/item/kinetic_crusher{pixel_x = -5},/obj/item/kinetic_crusher{pixel_x = 5},/obj/item/kinetic_crusher,/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "Yz" = (/obj/item/stack/ore/diamond{amount = 25},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "YE" = (/turf/open/floor/iron/stairs,/area/awaymission/karlsmine/caves)
-"YL" = (/obj/effect/decal/cleanable/oil/slippery,/obj/effect/decal/cleanable/oil,/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"YL" = (/obj/effect/decal/cleanable/oil/slippery,/obj/effect/decal/cleanable/oil,/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "YP" = (/obj/structure/spider/stickyweb,/obj/structure/spider/cocoon,/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/blood/hitsplatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "YV" = (/obj/item/food/spiderleg,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "Zd" = (/obj/structure/spider/stickyweb,/turf/closed/mineral,/area/awaymission/karlsmine/caves)
-"Zk" = (/obj/machinery/portable_atmospherics/canister/oxygen,/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Zk" = (/obj/machinery/portable_atmospherics/canister/oxygen,/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "Zl" = (/obj/effect/decal/cleanable/blood/tracks{desc = "Your instincts say you shouldn't be following these."; dir = 8; icon_state = "ltrails_1"},/obj/effect/decal/cleanable/blood/gibs/up,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
-"Zt" = (/obj/effect/decal/cleanable/blood/footprints{dir = 8},/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Zt" = (/obj/effect/decal/cleanable/blood/footprints{dir = 8},/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/gateway)
 "Zu" = (/obj/item/food/spiderleg,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "ZS" = (/obj/item/mecha_parts/mecha_equipment/ripleyupgrade,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 "ZW" = (/turf/closed/mineral/random/volcanic,/area/awaymission/karlsmine/caves)
@@ -346,15 +346,15 @@ XjGFGFGFgwBJBJYVvBIkBJGFGFGFGFGFxnGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGF
 XjGFGFGFIkvBBJBJBJBJBJGFGFGFGFxnxnGFGFGFxnGFGFGFGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFZWBJIkBJBJGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFBJBJIkIkIkBJBJGFGFGFGFGFGFGFGFGFUjxyIkoZBJIkBJBJBJGFZWZWGFGFGFBJBJBJIkGFGFGFGFGFGFxnGFGFXj
 XjGFGFGFZlBgBgBgBJBJIkGFGFGFxnxnGFGFGFGFxnGFGFGFGFjSGFGFGFGFGFGFGFGFGFGFGFGFZWZWBJBJBJGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFBJIkIkBJZWZWGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFBJIkIkIkuLGFGFGFGFGFGFGFIkDBIkBJGFZWGFIkIkIkBJZWGFZWGFZWBJIkIkBJZWZWGFGFGFGFxnGFGFXj
 XjGFGFjbjbjbmHUImHmHjbjbGFGFxnGFGFGFGFGFxnGFGFZWZWBJBJGFGFGFGFGFGFGFGFGFGFZWZWIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFxnGFGFGFGFGFGFGFBJIkBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFBJuLIBIkGFGFGFGFGFGFGFGFGFGFBJGFGFZWBJBJIkBJGFZWZWGFBJBJIkBJGFGFGFGFGFGFxnGFGFGFXj
-XjGFGFmHjmFoFoGmFokFPyjbGFGFxnGFGFGFGFGFxnGFGFZWBJBJBJGFGFGFGFGFGFGFGFGFGFBJIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFxnGFGFGFGFGFGFBJBJIkIkIkIkBJuUZWGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWBJBJIkBJGFGFBJIkIkBJBJZWGFGFGFGFGFxnGFGFGFXj
-XjGFGFjbFoFoFoZtMAERYejbGFGFxnGFGFGFGFGFxnGFGFZWBJeIXnZWGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFxnxnGFGFGFGFZWZWBJBJBJIkIkBJBJIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFIkIkIkBJBJBJIkBJZWZWGFGFGFGFGFxnGFGFGFGFXj
-XjGFGFjbAZFoFoFoFoYLFomHGFGFxnGFGFGFGFGFxnGFGFBJBJBJBJjSGFGFGFGFGFGFGFBJBJBJIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFxnxnGFGFGFGFZWZWGFBJBJIkIkBJIkGFGFGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnGFGFxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFZWZWBJIkIkBJBJIkBJGFGFGFGFGFGFGFxnGFGFGFGFXj
-XjGFGFjbAZFoFoFoFoGmFojbGFGFxnGFGFGFGFGFxnGFGFBJBJxyBJBJGFZWGFGFGFGFBJBJBJIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFxnxnxnGFGFGFGFZWZWZWBJIkBJIkBJBJBJGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFZWGFBJIkIkIkuUGFZWGFGFGFGFGFxnGFGFGFGFGFXj
-XjGFGFjbAZEsFoFoFoZkFomHGFGFxnGFGFGFGFGFxnGFGFZWBJBJBJBJGFZWGFGFIkIkBJBJBJBJZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFBJBJIkIkBJBJBJIkBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFBJIkIkBJBJZWGFGFGFGFGFGFxnxnGFGFGFGFGFXj
-XjGFGFmHAZFoFoFoFoGmFojbGFGFxnGFGFGFGFGFxnGFGFZWZWBJSpSpGFIkBJBJBJBJBJBJGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFxnxnxnGFGFGFZWZWGFBJIkIkBJIkIkBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFZWZWIkIkBJBJIkBJBJBJZWZWGFGFZWGFGFGFZWZWBJBJIkBJBJZWZWGFGFGFGFGFGFxnGFGFGFGFGFGFXj
-XjGFGFjbFoFoNUNUNUGmFojbGFGFxnGFGFGFGFGFxnGFGFGFGFBJBJSpIkIkBJBJIkIkZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFZWGFGFGFBJBJBJBJIkBJIkBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJBJGFBJBJIkBJBJIkIkBJIkIkBJGFGFZWGFGFZWZWBJIkIkIkIkBJZWGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFXj
-XjGFGFjbFoFoNUXQNUGmFojbGFGFxnGFGFGFGFGFxnGFGFGFZWZWBJBJBJBJBJIkIkZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFZWZWZWZWZWZWIkIkBJIkIkIkBJIkIkBJIkIkZdGFZWZWZWZWZWGFGFGFZWBJBJIkBJBJIkIkBJBJuUBJGFZWZWZWIkBJBJIkGFBJBJGFBJBJIkBJBJBJIkZWZWGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFXj
-XjGFGFmHCVeHNUNUNUYLFomHGFGFxnGFGFGFGFGFxnGFGFGFZWZWZWBJBJBJIkIkGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFZWZWGFGFZWZWIkBJBJBJBJBJIkBJBJBJuUBJIkGFZWZWGFIkIkBJIkIkBJIkBJBJBJGFZWGFZWGFGFBJBJBJIkBJIkIkBJBJIkIkBJBJGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFXj
+XjGFGFmHjmNUNUGmNUkFPyjbGFGFxnGFGFGFGFGFxnGFGFZWBJBJBJGFGFGFGFGFGFGFGFGFGFBJIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFxnGFGFGFGFGFGFBJBJIkIkIkIkBJuUZWGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWBJBJIkBJGFGFBJIkIkBJBJZWGFGFGFGFGFxnGFGFGFXj
+XjGFGFjbNUNUNUZtMAERYejbGFGFxnGFGFGFGFGFxnGFGFZWBJeIXnZWGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFxnxnGFGFGFGFZWZWBJBJBJIkIkBJBJIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFIkIkIkBJBJBJIkBJZWZWGFGFGFGFGFxnGFGFGFGFXj
+XjGFGFjbAZNUNUNUNUYLNUmHGFGFxnGFGFGFGFGFxnGFGFBJBJBJBJjSGFGFGFGFGFGFGFBJBJBJIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFxnxnGFGFGFGFZWZWGFBJBJIkIkBJIkGFGFGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnGFGFxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFZWZWBJIkIkBJBJIkBJGFGFGFGFGFGFGFxnGFGFGFGFXj
+XjGFGFjbAZNUNUNUNUGmNUjbGFGFxnGFGFGFGFGFxnGFGFBJBJxyBJBJGFZWGFGFGFGFBJBJBJIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFxnxnxnGFGFGFGFZWZWZWBJIkBJIkBJBJBJGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFZWGFBJIkIkIkuUGFZWGFGFGFGFGFxnGFGFGFGFGFXj
+XjGFGFjbAZEsNUNUNUZkNUmHGFGFxnGFGFGFGFGFxnGFGFZWBJBJBJBJGFZWGFGFIkIkBJBJBJBJZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFBJBJIkIkBJBJBJIkBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFBJIkIkBJBJZWGFGFGFGFGFGFxnxnGFGFGFGFGFXj
+XjGFGFmHAZNUNUNUNUGmNUjbGFGFxnGFGFGFGFGFxnGFGFZWZWBJSpSpGFIkBJBJBJBJBJBJGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFxnxnxnGFGFGFZWZWGFBJIkIkBJIkIkBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFZWZWIkIkBJBJIkBJBJBJZWZWGFGFZWGFGFGFZWZWBJBJIkBJBJZWZWGFGFGFGFGFGFxnGFGFGFGFGFGFXj
+XjGFGFjbNUNUNUNUNUGmNUjbGFGFxnGFGFGFGFGFxnGFGFGFGFBJBJSpIkIkBJBJIkIkZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFZWGFGFGFBJBJBJBJIkBJIkBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJBJGFBJBJIkBJBJIkIkBJIkIkBJGFGFZWGFGFZWZWBJIkIkIkIkBJZWGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFXj
+XjGFGFjbNUNUNUXQNUGmNUjbGFGFxnGFGFGFGFGFxnGFGFGFZWZWBJBJBJBJBJIkIkZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFZWZWZWZWZWZWIkIkBJIkIkIkBJIkIkBJIkIkZdGFZWZWZWZWZWGFGFGFZWBJBJIkBJBJIkIkBJBJuUBJGFZWZWZWIkBJBJIkGFBJBJGFBJBJIkBJBJBJIkZWZWGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFXj
+XjGFGFmHCVeHNUNUNUYLNUmHGFGFxnGFGFGFGFGFxnGFGFGFZWZWZWBJBJBJIkIkGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFZWZWGFGFZWZWIkBJBJBJBJBJIkBJBJBJuUBJIkGFZWZWGFIkIkBJIkIkBJIkBJBJBJGFZWGFZWGFGFBJBJBJIkBJIkIkBJBJIkIkBJBJGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFXj
 XjGFGFjbacpIpIpIpIpIwxjbGFGFxnGFGFGFGFGFxnGFGFGFGFGFGFGFZWZWZWGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFZWZWGFZWGFZWBJBJBJIkuUIkIkIkIkBJIkIkIkBJIkIkBJGFZWGFZWZWZWZWGFGFGFGFIkBJIkIkBJBJBJIkIkBJBJBJGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFXj
 XjGFGFjbmHjbmHjbjbmHmHjbGFGFxnGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWZWVwIkBJBJBJIkIkBJBJBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFIkIkBJBJBJIkIkIkuUZWZWGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFXj
 XjGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFZWGFGFGFGFZWZWZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFXj
