@@ -1,178 +1,362 @@
-"a" = (/turf/open/space/basic,/area/space)
-"d" = (/obj/effect/decal/cleanable/blood/footprints{dir = 4},/turf/open/floor/plating,/area/space)
-"e" = (/turf/closed/wall/rust,/area/space)
-"k" = (/turf/open/floor/plating,/area/space)
-"l" = (/obj/machinery/portable_atmospherics/canister/oxygen,/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/space)
-"m" = (/turf/closed/indestructible/rock,/area/space)
-"o" = (/obj/machinery/vending/boozeomat/all_access,/turf/open/floor/plating,/area/space)
-"p" = (/obj/effect/decal/cleanable/blood/footprints{dir = 1},/obj/effect/decal/cleanable/blood/footprints{dir = 8},/turf/open/floor/plating,/area/space)
-"x" = (/obj/structure/table,/turf/open/floor/plating,/area/space)
-"y" = (/obj/effect/decal/cleanable/oil/slippery,/turf/open/floor/plating,/area/space)
-"z" = (/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/space)
-"C" = (/obj/structure/table,/obj/item/kinetic_crusher{pixel_x = -5},/obj/item/kinetic_crusher{pixel_x = 5},/obj/item/kinetic_crusher,/turf/open/floor/plating,/area/space)
-"E" = (/turf/closed/mineral,/area/space)
-"F" = (/obj/structure/table/wood,/turf/open/floor/plating,/area/space)
-"I" = (/obj/machinery/gateway/away,/turf/open/floor/plating,/area/space)
-"L" = (/obj/effect/decal/cleanable/oil/slippery,/obj/effect/decal/cleanable/oil,/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/space)
-"M" = (/obj/effect/landmark/latejoin,/turf/open/misc/asteroid,/area/space)
-"Q" = (/obj/machinery/door/airlock/external/ruin{welded = 1},/turf/open/floor/plating,/area/space)
-"R" = (/obj/effect/decal/cleanable/blood/footprints{dir = 8},/turf/open/floor/plating,/area/space)
-"T" = (/obj/structure/table,/obj/item/pickaxe{pixel_x = -5},/obj/item/gun/energy/recharge/kinetic_accelerator,/turf/open/floor/plating,/area/space)
-"U" = (/obj/structure/table/wood,/obj/item/flashlight/lantern,/turf/open/floor/plating,/area/space)
-"V" = (/obj/effect/decal/cleanable/blood/footprints{dir = 8},/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/space)
-"X" = (/obj/item/chair,/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/floor/plating,/area/space)
-"Y" = (/turf/open/misc/asteroid,/area/space)
-"Z" = (/turf/closed/wall,/area/space)
+"ac" = (/obj/item/chair,/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"aQ" = (/obj/machinery/portable_atmospherics/canister/bz,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"bu" = (/obj/item/mecha_parts/mecha_equipment/weapon/energy/tesla,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"bL" = (/obj/item/mecha_parts/mecha_equipment/weapon/energy/plasma,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"cb" = (/obj/item/pickaxe/diamond,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"cc" = (/obj/item/storage/medkit/toxin,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"cD" = (/obj/effect/mob_spawn/corpse/human/miner,/obj/item/transfer_valve,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"cF" = (/obj/item/organ/liver,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"cX" = (/obj/structure/spider/stickyweb,/obj/structure/spider/stickyweb/sealed,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"da" = (/obj/effect/decal/cleanable/blood/drip,/obj/item/food/spiderleg,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"di" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/hitsplatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"dy" = (/mob/living/simple_animal/hostile/giant_spider/hunter/flesh,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"dT" = (/obj/structure/railing,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"dY" = (/obj/structure/spider/stickyweb,/obj/structure/barricade/wooden,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"eH" = (/obj/structure/table/wood,/obj/item/flashlight/lantern,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"eI" = (/obj/effect/mob_spawn/corpse/human/engineer,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"eV" = (/obj/effect/decal/cleanable/xenoblood/xgibs,/obj/effect/decal/cleanable/blood/tracks,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"fw" = (/obj/item/stack/ore/plasma{amount = 5},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"gi" = (/obj/effect/decal/cleanable/blood/splatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"gw" = (/obj/structure/spider/cocoon,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"gH" = (/obj/structure/spider/stickyweb/sealed,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"gK" = (/obj/item/food/grown/cannabis/rainbow,/obj/effect/decal/cleanable/blood/old,/obj/effect/decal/cleanable/blood/gibs/old,/obj/effect/mob_spawn/corpse/human/bartender,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"gO" = (/obj/item/organ/heart,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"gV" = (/turf/open/floor/plating/rust,/area/awaymission/karlsmine/caves)
+"hd" = (/obj/effect/mob_spawn/corpse/human/miner,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"hk" = (/obj/structure/spider/stickyweb,/obj/effect/mob_spawn/corpse/human/charredskeleton,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"hn" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/gibs/limb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"hP" = (/obj/effect/decal/cleanable/blood/gibs/limb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"ip" = (/obj/machinery/door/airlock/vault/derelict,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"iz" = (/mob/living/simple_animal/hostile/giant_spider/tarantula{name = "Weed Guardian"; desc = "One might wonder what a spider wants with leftover cannabis."},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"iJ" = (/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"iN" = (/mob/living/simple_animal/hostile/giant_spider/nurse,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"jb" = (/turf/closed/wall,/area/awaymission/karlsmine/caves)
+"jh" = (/obj/item/stack/ore/uranium{amount = 8},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"jm" = (/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"jF" = (/obj/structure/spider/stickyweb,/obj/structure/spider/cocoon,/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/blood/gibs/up,/obj/item/clothing/suit/armor/vest/russian,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"jL" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/gibs/core,/obj/effect/decal/cleanable/blood/gibs/limb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"jS" = (/obj/item/tank/internals/plasma/full,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"ka" = (/obj/machinery/smoke_machine,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"kh" = (/obj/effect/decal/cleanable/blood/drip,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"kF" = (/obj/structure/table,/obj/item/storage/medkit/brute,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"kS" = (/obj/effect/mob_spawn/corpse/human/charredskeleton,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"kT" = (/mob/living/simple_animal/hostile/giant_spider/hunter/scrawny,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"kV" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/footprints{dir = 4},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"lg" = (/obj/item/stack/sheet/mineral/gold,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"ln" = (/obj/machinery/portable_atmospherics/canister/oxygen,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"lO" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"lV" = (/obj/effect/decal/cleanable/blood/tracks{desc = "Your instincts say you shouldn't be following these."; dir = 9; icon_state = "ltrails_1"},/obj/effect/decal/cleanable/blood/tracks,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"ma" = (/obj/item/grenade/smokebomb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"md" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/giant_spider/hunter/flesh,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"mj" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/giant_spider/hunter/scrawny,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"mn" = (/obj/structure/spider/stickyweb,/obj/item/stack/ore/diamond{amount = 25},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"mH" = (/turf/closed/wall/rust,/area/awaymission/karlsmine/caves)
+"ni" = (/mob/living/simple_animal/hostile/giant_spider/hunter/scrawny,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"nk" = (/turf/open/chasm,/area/awaymission/karlsmine/caves)
+"nl" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/gibs/old,/obj/item/clothing/head/helmet/old,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"nR" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/gibs,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"ob" = (/obj/effect/decal/cleanable/blood,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"oQ" = (/obj/structure/railing{dir = 4},/obj/item/stack/ore/titanium{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"oR" = (/obj/item/pickaxe/improvised,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"oZ" = (/obj/structure/spider/stickyweb,/obj/structure/barricade/wooden/crude,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"pI" = (/obj/effect/decal/cleanable/blood/footprints{dir = 4},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"pZ" = (/obj/structure/mecha_wreckage/ripley/mk2,/obj/item/stack/ore/diamond{amount = 25},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"qt" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/drip,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"qu" = (/obj/structure/tank_holder/extinguisher,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"qx" = (/obj/effect/mob_spawn/corpse/human/miner,/obj/effect/decal/cleanable/blood,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"qF" = (/obj/effect/mob_spawn/corpse/human/miner,/obj/item/gun/energy/laser/hellgun,/obj/effect/decal/cleanable/blood/gibs/core,/obj/effect/decal/cleanable/blood,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"qJ" = (/obj/item/stack/ore/bananium{amount = 5},/obj/effect/decal/cleanable/blood/gibs/limb,/turf/open/floor/mineral/gold,/area/awaymission/karlsmine/caves)
+"qN" = (/obj/structure/ore_box,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"rt" = (/obj/item/stack/ore/titanium{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"rI" = (/obj/structure/spider/stickyweb,/obj/structure/railing,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"rM" = (/obj/effect/decal/cleanable/blood/footprints{dir = 4},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"rP" = (/obj/item/gun/energy/recharge/kinetic_accelerator,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"rZ" = (/obj/effect/decal/cleanable/blood/gibs/up,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"st" = (/obj/item/stack/sheet/bluespace_crystal,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"sP" = (/obj/structure/spider/stickyweb,/obj/structure/spider/cocoon,/obj/structure/spider/cocoon,/obj/effect/decal/cleanable/blood,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"sQ" = (/obj/structure/railing,/obj/item/stack/ore/bananium{amount = 5},/obj/item/stack/sheet/bluespace_crystal,/turf/open/floor/mineral/gold,/area/awaymission/karlsmine/caves)
+"ti" = (/obj/item/mecha_parts/mecha_equipment/drill/diamonddrill,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"uk" = (/obj/item/tank/internals/plasma/full,/turf/open/floor/plating/rust,/area/awaymission/karlsmine/caves)
+"uA" = (/obj/item/pickaxe/drill/cyborg/diamond,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"uF" = (/obj/effect/decal/cleanable/blood/gibs/up,/obj/effect/decal/cleanable/blood,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"uL" = (/obj/item/gibtonite,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"uU" = (/mob/living/simple_animal/hostile/giant_spider/hunter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"vB" = (/obj/effect/decal/cleanable/xenoblood,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"vH" = (/obj/structure/spider/stickyweb,/obj/structure/spider/cocoon,/obj/effect/decal/cleanable/blood,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"vI" = (/obj/structure/railing,/obj/item/stack/ore/bananium{amount = 5},/turf/open/floor/mineral/gold,/area/awaymission/karlsmine/caves)
+"we" = (/turf/closed/mineral,/area/space)
+"wx" = (/obj/machinery/vending/boozeomat/all_access,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"wB" = (/obj/item/mecha_parts/chassis/ripley,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"xk" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/splatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"xn" = (/turf/closed/indestructible/rock,/area/awaymission/karlsmine/caves)
+"xo" = (/obj/effect/decal/cleanable/xenoblood,/mob/living/simple_animal/hostile/giant_spider/nurse,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"xq" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/giant_spider/nurse,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"xy" = (/mob/living/simple_animal/hostile/giant_spider/viper,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"xT" = (/obj/structure/spider/stickyweb,/obj/item/tank/internals/plasma/empty,/turf/open/floor/plating/rust,/area/awaymission/karlsmine/caves)
+"xV" = (/obj/effect/decal/cleanable/blood/hitsplatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"ye" = (/obj/machinery/chem_heater,/obj/item/stock_parts/cell,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"yY" = (/mob/living/simple_animal/bot/mulebot{desc = "A Multiple Utility Load Effector bot. It appears to have been retrofitted to load ore."; name = "Dwarven MULEbot"},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"zk" = (/obj/structure/spider/stickyweb,/obj/machinery/hydroponics/soil,/obj/item/food/grown/cannabis,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"zn" = (/obj/machinery/portable_atmospherics/canister/plasma,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"zK" = (/obj/structure/railing,/turf/open/floor/plating/rust,/area/awaymission/karlsmine/caves)
+"Ak" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/tracks,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"AZ" = (/obj/structure/table,/obj/item/pickaxe{pixel_x = -5},/obj/item/gun/energy/recharge/kinetic_accelerator,/obj/item/gps/mining,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Bg" = (/obj/effect/decal/cleanable/blood/tracks{desc = "Your instincts say you shouldn't be following these."; dir = 8; icon_state = "ltrails_1"},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Bu" = (/obj/structure/spider/stickyweb,/obj/structure/spider/cocoon,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"By" = (/obj/item/stack/ore/titanium{amount = 15},/obj/item/stack/ore/gold{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"BC" = (/obj/structure/mining_bomb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"BJ" = (/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Ci" = (/turf/closed/indestructible/reinforced,/area/awaymission/karlsmine/caves)
+"Ck" = (/obj/item/flashlight/lantern,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Cq" = (/obj/item/stack/ore/plasma{amount = 5},/obj/item/stack/ore/gold{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"CV" = (/obj/structure/table/wood,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Da" = (/obj/structure/railing{dir = 8},/obj/item/stack/sheet/bluespace_crystal,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Df" = (/obj/item/knife/combat/bone,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"DB" = (/obj/effect/mob_spawn/corpse/human/miner,/obj/effect/decal/cleanable/blood/splatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"DQ" = (/obj/effect/mob_spawn/corpse/human/charredskeleton,/obj/item/storage/bag/ore,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"DV" = (/obj/item/paper{info = "Please do not dive into the mineral pool."; name = "Warning"; pixel_y = 20},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Eg" = (/obj/item/fireaxe/boneaxe,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"En" = (/mob/living/simple_animal/hostile/giant_spider/hunter,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Es" = (/obj/effect/decal/cleanable/oil/slippery,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"EE" = (/obj/effect/decal/cleanable/blood,/obj/item/tank/internals/oxygen/empty,/turf/open/floor/plating/rust,/area/awaymission/karlsmine/caves)
+"EQ" = (/obj/effect/decal/cleanable/blood/tracks,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"ER" = (/obj/effect/decal/cleanable/blood/footprints{dir = 1},/obj/effect/decal/cleanable/blood/footprints{dir = 8},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Fb" = (/obj/effect/decal/cleanable/xenoblood,/obj/effect/decal/cleanable/xenoblood/xgibs,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Fh" = (/obj/effect/decal/cleanable/blood/gibs/down,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Fj" = (/obj/effect/landmark/latejoin,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Fl" = (/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Fo" = (/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Gm" = (/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Gr" = (/obj/item/stack/ore/uranium{amount = 8},/obj/item/stack/ore/gold{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"GF" = (/turf/closed/mineral,/area/awaymission/karlsmine/caves)
+"GJ" = (/obj/effect/decal/cleanable/xenoblood/xgibs,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"HQ" = (/obj/structure/spider/stickyweb,/obj/item/pickaxe,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Ik" = (/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Iu" = (/obj/machinery/hydroponics/soil,/obj/item/food/grown/cannabis,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"IB" = (/obj/structure/spider/stickyweb,/obj/item/gibtonite,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"IZ" = (/obj/structure/spider/stickyweb,/obj/item/pickaxe/rusted,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"JE" = (/obj/structure/spider/stickyweb,/obj/effect/mob_spawn/corpse/human/charredskeleton,/obj/item/storage/bag/ore,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"JI" = (/obj/effect/decal/cleanable/blood/xtracks,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"JX" = (/obj/structure/spider/stickyweb,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Kc" = (/obj/item/stack/ore/bananium{amount = 5},/turf/open/floor/mineral/gold,/area/awaymission/karlsmine/caves)
+"Ke" = (/obj/item/food/spiderling,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"KZ" = (/obj/structure/spider/stickyweb,/obj/structure/spider/cocoon,/obj/effect/decal/cleanable/blood,/obj/item/gun/energy/laser,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Ln" = (/obj/effect/decal/cleanable/xenoblood,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"LG" = (/obj/effect/decal/cleanable/blood/hitsplatter,/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"LH" = (/obj/effect/decal/cleanable/blood/gibs/body,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"LV" = (/obj/effect/decal/cleanable/blood/drip,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"LX" = (/obj/structure/spider/stickyweb,/obj/item/flashlight/lantern,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Mp" = (/obj/effect/decal/cleanable/blood/gibs/core,/obj/effect/decal/cleanable/blood/splatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"MA" = (/obj/effect/decal/cleanable/blood/footprints{dir = 8},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"MF" = (/obj/effect/decal/cleanable/xenoblood/xsplatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"ML" = (/obj/item/pickaxe,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"MS" = (/obj/structure/mecha_wreckage/clarke,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Om" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/gibs/up,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Op" = (/mob/living/simple_animal/hostile/skeleton,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Oy" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood,/obj/item/fireaxe/boneaxe,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Py" = (/obj/structure/table,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"PB" = (/obj/item/grenade/smokebomb,/obj/item/book/granter/spell/smoke/lesser,/obj/structure/closet,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"PI" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/blood/splatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"PV" = (/obj/effect/decal/cleanable/blood/gibs/core,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Ql" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/giant_spider/tarantula{name = "Weed Guardian"; desc = "One might wonder what a spider wants with leftover cannabis."},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Qm" = (/obj/structure/ore_box,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Qr" = (/obj/item/flamethrower/full/tank,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Qx" = (/turf/closed/mineral/plasma,/area/awaymission/karlsmine/caves)
+"QR" = (/obj/structure/spider/stickyweb,/obj/structure/spider/cocoon,/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/blood/splatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Rb" = (/obj/structure/tank_dispenser,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Rc" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/giant_spider/nurse/scrawny,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Ru" = (/obj/effect/decal/cleanable/blood/splatter,/obj/effect/mob_spawn/corpse/human/miner,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Sp" = (/obj/structure/barricade/wooden,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"SD" = (/obj/structure/railing{dir = 8},/obj/item/stack/ore/uranium{amount = 8},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"SF" = (/obj/item/kinetic_crusher,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"SN" = (/obj/structure/spider/stickyweb,/obj/machinery/portable_atmospherics/canister/oxygen,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"SV" = (/obj/effect/decal/cleanable/xenoblood/xgibs,/turf/closed/mineral/random/volcanic,/area/awaymission/karlsmine/caves)
+"SW" = (/obj/effect/decal/cleanable/blood/gibs/torso,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Tn" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/giant_spider/hunter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"TH" = (/obj/item/stack/ore/diamond{amount = 25},/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Uj" = (/obj/item/gun/energy/laser/thermal/inferno,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Uo" = (/obj/structure/spider/stickyweb,/turf/open/chasm,/area/awaymission/karlsmine/caves)
+"UH" = (/obj/effect/decal/cleanable/blood/gibs,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"UI" = (/obj/machinery/door/airlock/external/ruin{welded = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"UO" = (/obj/effect/decal/cleanable/blood/gibs/core,/obj/effect/decal/cleanable/blood,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Vr" = (/obj/structure/sign/poster/contraband/smoke,/turf/closed/mineral,/area/awaymission/karlsmine/caves)
+"Vw" = (/obj/structure/spider/stickyweb,/turf/closed/mineral/random/volcanic,/area/awaymission/karlsmine/caves)
+"Wm" = (/obj/structure/spider/stickyweb,/turf/open/floor/plating/rust,/area/awaymission/karlsmine/caves)
+"Wx" = (/obj/item/stack/ore/gold{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Wz" = (/obj/structure/mecha_wreckage/durand,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"WD" = (/obj/item/implantcase/sad_trombone,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"WT" = (/obj/item/pickaxe/drill/diamonddrill,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Xj" = (/turf/closed/indestructible/rock,/area/space)
+"Xn" = (/obj/item/flamethrower,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Xy" = (/obj/effect/decal/cleanable/blood/tracks{desc = "Your instincts say you shouldn't be following these."; dir = 9; icon_state = "ltrails_1"},/obj/effect/decal/cleanable/blood/tracks,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"XQ" = (/obj/machinery/gateway/away,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"XV" = (/obj/structure/railing{dir = 4},/obj/item/stack/ore/gold{amount = 15},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"XX" = (/obj/structure/spider/stickyweb,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"XY" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/xtracks,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Ye" = (/obj/structure/table,/obj/item/kinetic_crusher{pixel_x = -5},/obj/item/kinetic_crusher{pixel_x = 5},/obj/item/kinetic_crusher,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Yz" = (/obj/item/stack/ore/diamond{amount = 25},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"YE" = (/turf/open/floor/iron/stairs,/area/awaymission/karlsmine/caves)
+"YL" = (/obj/effect/decal/cleanable/oil/slippery,/obj/effect/decal/cleanable/oil,/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"YP" = (/obj/structure/spider/stickyweb,/obj/structure/spider/cocoon,/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/blood/hitsplatter,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"YV" = (/obj/item/food/spiderleg,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Zd" = (/obj/structure/spider/stickyweb,/turf/closed/mineral,/area/awaymission/karlsmine/caves)
+"Zk" = (/obj/machinery/portable_atmospherics/canister/oxygen,/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Zl" = (/obj/effect/decal/cleanable/blood/tracks{desc = "Your instincts say you shouldn't be following these."; dir = 8; icon_state = "ltrails_1"},/obj/effect/decal/cleanable/blood/gibs/up,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"Zt" = (/obj/effect/decal/cleanable/blood/footprints{dir = 8},/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"Zu" = (/obj/item/food/spiderleg,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"ZS" = (/obj/item/mecha_parts/mecha_equipment/ripleyupgrade,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
+"ZW" = (/turf/closed/mineral/random/volcanic,/area/awaymission/karlsmine/caves)
+"ZX" = (/obj/effect/decal/cleanable/blood/splatter,/obj/structure/spider/stickyweb,/turf/open/misc/asteroid,/area/awaymission/karlsmine/caves)
 
 (1,1,1) = {"
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEYYEaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYEYYEaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaEEEEEEEEEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaEEEYYYYYYYYYYEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaEEEYYYYYYYYYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaEEYYYYYYYYYYYYYYYYYYEEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaEYYYEEEEEYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaEYEEEaaaEEEEEEEYYYYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaEEEaaaaaaaaaaaEEEEEYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEEEEaaaaaEEEEEaaaaaaaaaaaaaaaaaaaaaEYYYYYEEEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEEEaaaaaaaaaaaaaaaaaaaaaaEEEEEYYEEEEEEaaEEYYYEEaaaaaaaaaaaaaaaaaaaaEEYYYYYYYYYEEEEEaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYEaaaaaaaaaaaaaaaaaaEEEEEYEYYYYYYYEYEEEEYYYYYEaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYYYYYYEEEEEEaaaaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEEaaaaaaaaaaaaaaEEEEYYYYYYYYYYYYYYYYYYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYYYYYYYYYEEEEEaaaaaaaaaaaaaaa
-maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYEaaaaaaaaaaaEEEEYYYYYYYYEEEEEEEEYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaaaaaaEEEYYYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaa
-maaaaaaaaaaEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaEEEEYYYYYYYYYEEEaaaaaaEEEEYYYYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaEEEEEEEEYYYYYYYYYYEEaaaaaaaaaaaaaa
-maaaaaaaaaaEYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYEEaaaaaEEEYYYYYYYYEEEEEaaaaaaaaaaaEEEYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEYYYYYYYYYEaaaaaaaaaaaaaa
-maaaaaaaaaaEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYEEaaEEEYYYYYYEEEEEaaaaaaaaaaaaaaaaaEEYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEYYYYYYYEEaaaaaaaaaaaaa
-maaaaaaaaaaEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEEEEYYYYYEEEEaaaaaaaaaaaaaaaaaaaaaaEYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYEEaaaaaaaaaaaa
-maaaaaaaaaEEEYYEEEEEEEEEEaaaaaaaaaaaaaaaaaaaaEEYYYYYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYEEaaaaaaaaaaa
-maaaaaaaaaEYYYYYYYYYYYYYEEEEEaaaaaaaaaaaaaaaaaEEYYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYEaaaaaaaaaaa
-maaaaaaaaaEYYYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaaEYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEEEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaEYYEYYYYEEaaaaaaaaaa
-maaaaaaaaaEYYYYYYEYYYYYYYYYYEaaaaaaaaaaaaaaaaaaEEYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaEEEEEYYYEEaaaaaaaaaa
-maaaaaaaaEEYYEYYEEEEEEYYYEEEEaaaaaaaaaaaaaaaaaaaEEYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaaa
-maaaaaaaaEYYYEYYEaaaaEEYYEaaaaaaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEYYYYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaa
-maaaaaaaaEYYYEYEEaaaaaEEEEaaaaaaaaaaaaaaaaaaaaaaEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEEYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaa
-maaaaaaaEEYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaa
-maaaaaaaEEYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaa
-maaaaaaaEEEYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYEEaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaa
-maaaaaaaaEEYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEYYYYYEEEaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaa
-maaaaaaaEEYYYYYEEEEEEEEEEaaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYEaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaa
-maaaaaaEEYYYYYYYYYEEEEEEEEEEaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEYYYYYEEaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaaa
-maaaaaaEYYYYYYYYYYYYYYYYYYYEEEaaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYEaaaaaaaaaaaaaaaaEEYYYYEaaaaaaaaaa
-maaaaaaEYYYYYYYYYYYYYYYYYYYYYEEaaaaaaaaaaaaaaaaaEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYEEaaaaaaaaaaaaaaaEEYYYEEaaaaaaaaaa
-maaaaaaEEYYYYYYYYYYYYYYYYYYYYYEEEEEaaaaaaaaaaaaaEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYEaaaaaaaaaaaaaaEEYYYYEaaaaaaaaaaa
-maaaaaaaEEYYYYYEEEEEEEEEEYYYYYYYEEEEEEEEaaaaaaaEEYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaaaaaaEEEYYYEEaaaaaaaaaaa
-maaaaaaaEYYYYEEEaaaaaaaaEEEEYYYYYEYEYYYEEaaaaaaEYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEEaaaaaaaaaaaaEEYYYYEaaaaaaaaaaaa
-maaaaaaaEYYYEEaaaaaaaaaaaaaEEEYYYYYYYYYYEaaaaaaEYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEEaaaaaaaaaaaEYYYYEEaaaaaaaaaaaa
-maaaaaaaEYYYEaaammmmmmmaaaaaaEEYYYYYYYYYEEaaaaaEEYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYEEEEEaaaaaaaEYYYEEaaaaaaaaaaaaa
-maaaaaaEEYYYEaaamaaaaammaaaaaaEYYYYYYYYYYEaaaaaaEEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYEEEaaaaaEYYYEaaaaaaaaaaaaaa
-maaaaaaEYYYYEaaamaaaaaaamaaaaaEYYYYYYYYYEEaaaaaaaEEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYYYYYEEaaaaEYYEEaaaaaaaaaaaaaa
-maaaaaaEYYYEEaaamaaaaaaammaaaEEYYYYYYYYYYEaaaaaaaaEYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYYYYYYEEEEaEYYEEaaaaaaaaaaaaaa
-maaaaaaEYYYEaaaamaaaaaaaamaaaEYYYYYYYYYYYEaaaaaaaaEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYYYYYYYEEEYYYEaaaaaaaaaaaaaa
-maaaaaEEYYYEaaaamaaaaaaaammaaEYYYYYYYYYYYEaaaaaaaaEEYYYEEEEEEEEEEEEEEEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYEEEEYYYYYYEEYYYEaaaaaaaaaaaaaa
-maaaaaEYYYEEaaaamaaaaaaaaamaaEYYYYYYYYYYEEaaaammaaaEYYYEEYYYYYYYYYYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYEEaaEEYYYYYYYYYYEaaaaaaaaaaaaaa
-maaaaaEEYYEEaaaammaaaaaaaammaEEEYYYYYYYEEaaaammaaaaEYYYYYYYYYYYYYYYYYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEYYYYEEEaaaaEEEYYYYYYYYEaaaaaaaaaaaaaa
-maaaaaEYYYEEaaaaamaaaaaaaaammaaEEYYYYYEEEaaammaaaaEEYYYYYYYYYYYYYYYYYYYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEYYYYYYEEaaaaaaaaEEEEYYYYYEaaaaaaaaaaaaaa
-maaaaaEEYYYEEaaaammaaaaaaaaammaaEEYYYYEaaaammaaaaEEYYYYYEEEEEEEEEEEEYYYYYYYYEEaaaaaaaaaaaaaaaEEEEaaaaaaaaaEEYYYYYYEEEaaaaaaaaaaaaEEEYYYEaaaaaaaaaaaaaa
-maaaaaaEYYYYEEaaaamaaaaaaaaaamaaaEEYYEEaaammaaaEEEYYYYEEEaaaaaaaaaaEEEYYYYYYYEaaaaaaaaaaaaaaaEYYEEaaaaaaEEEYYYYYYEEaaaaaaaaaaaaaaaaEEEEEaaaaaaaaaaaaaa
-maaaaaaEEYYYYEaaaammaaaaaaaaammaaaEEEEaaammaaaEEYYYYYEEaaaaaaaaaaaaaaEEEYYYYYEEaaaaaaaaaaaaaaEYYYEEEaaaEEYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-maaaaaaaEYYYEEaaaaamaaaaaaaaaammaaaaaaaammaaaEEYYYYYEEaaaaaaaaaaaaaaaaaEEYYYYYEaaaaaaaaaaaaaaEEYYYEEEEEEYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEYYYEEEaaamaaaaaaaaaaamaaaaaaammaaaEEYYYYYEEaaaaaaaaaaaaaaaaEEEEEYYYYEaaaaaaaaaaaaaaaEEYYYYYEEYYYYYEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEYYYYYYEaaamaaaaaaaaaaammaaaaammaaaEEYYYYEEEaaaaaaaaaaaaaaaaEEYYYYYYYYEaaaaaaaaaaaaaaaEEYYYYYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEYYYYYYEaaammaaaaaaaaaaammmammmaEEEEYYYYYEaaaaaaaaaaaaaaaaaEEYYYYYYYYYEaaaaaaaaaaaaaaaaEEYYYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEEYYYYEaaaamaaaaaaaaaaaaammmaaaEEEYYYYYEEaaaaaaaaaaaaaaaEEEYYYYYYYYYYEaaaaaaaaaaaaaaaaaEEYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEEEYYYEaaaamaaaaaaaaaaaaammaaaEEYYYYYEEEaaaaaaaaaaaaaaaaEEYYYYYYEEYYEEaaaaaaaaaaaaaaaaaaEEYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEEYYYYEaaaamaaaaaaaaaaaammaaaaEYYYYYEEEEEaaaaaaaaaaaaaaaaEYYYYYYYEEEEaaaaaaaaaaaaaaaaaaaaEYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEEEYYEEaaaamaaaaaaaaaaammaaaaEEYYYYYYYYYEEEEaaaaaaaaaaaaaEYYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaEEYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEEYYYYEaaaamaaaaaaaaaaamaaaaEEYYYYYYYYYYYYYEEEaaaaaaaaaaaEYYYYYYYYYEaaaaaaaaaaaaaaaaaaaaaaEYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEYYYYEEaaaamaaaaaaaaaammaaaEEYYYYYYYYYYYYYYYYEEEaaaaaaaaaEEYYYYYYYYEaaaaaaaaaaaaaaaaaaaaaaEEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEYYYYYEEEaaamaaaaaaaaaamaaaEEYYYYYYYEEYYYYYYYYYEEaaaaaaaaaEYYYYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEYYYYYYEaaamaaaaaaaaaamaaaEYYYYYYYEEEEYYYYYYYYYEEaaaaaaaaEEEYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaaaEEEEEEEEEEEaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEYYYYEEEaaamaaaaaaaaammaaaEYYYYYYEEaaEEYYYYYYYYYEEaaaaaaaaaEEYYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaaaEEYYYYYYYYEEEaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEYYYYYEaaaaamaaaaaaaaamaaaaEYYYYYEEaaaaEEYYYYYYYYYEEaaaaaaaaaEEEEEEEEEaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaaEEYYYYYYYYYYYEEaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEYYYYYEaaaamaaaaaaaaammaaaaEYYYYYEaaaaaaEEYYYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaaEEYYYYYYYYYYYYEEaaaaaaaaaaaaaaaaaa
-mEEEEEEEYYYYYYEaaaamaaaaaaaaamaaaaEEYYYYEEaaaaaaaEEEEYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaaEEYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaa
-mEEEEEEEEYYYYEEaaaamaaaaaaaaamaaaaEYYYYYEaaaaaaaaaaaEEYYYYYYYEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYEaaaaaaaEEEYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaa
-mEEEEEEEEYYYYEaaaamaaaaaaaaaamaaaaEYYYYEEaaaaaaaaaaaaEEYYYYYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEEaaaaaaaEEYYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaa
-mEEEEEEEYYYYYEaaaamaaaaaaaaaamaaaaEYYYYEaaaaaaaaaaaaaaEEYYYYYYYYYYEEEEEEaaaaaaaEEEEEEEaaaaaaaaaaaaaEYYYYEaaaaaaaEEYYYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEYYYEaaammaaaaaaaaaamaaaEEEYYYEaaaaaaaaaaaaaaaEEYYYYYYYYYYYYYYEEEEaaEEEYYYYYEEEEEEEaaaaaaEEYYYYEaaaaaaEEYYYYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEYYYEaaamaaaaaaaaammmaaaEYYYYYEaaaaamaaaaaaaaaaEEYYYYYYYYYYYYYYYYEaEEYYYYYYYYYYEYYEEEaaaEEYYYYYEaaaaaaEEYYYYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEYYYEaaammmmmmmmmmmaaaaaEYYYYYEaaaaamaaaaaaaaaaaEEYYYYYYYYYYYYYYEEEEYYYYYYYYYYYYYYYYEEEEEYYYYYEEaaaaEEEYYYYYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEYYYEaaaaaaaaaaaaaaaaaaEEYYYYYEaaaaammaaaaaaaaaaaEEEYYYYYYYYYYYYEEEYYYYYYYYYYYYYYYYYYYYEEYYYYYEEEEEEEYYYYYYYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEYYYEEaaaaaaaEEEEEEEaaaEYYYYYYEaaaaaammaaaaaaaaaaaaEEEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEYYYEEaaaaaEEEYYYYYEEEEEYYYYYYEaaaaaaammaaaaaaaaaaaaaEEEEEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYEaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEYYYYEaaaEEEYYYYYYYYYYYYYYYYYYEaaaaaaaammaaaaaaaaaaaaaaaaEEEEEEYYYYYYYEEEEEEEEEEYYYYEEEEEEEEEEEEEEEEEEYYYYYYYYYYYYYYYYYYYYEaaaaaEEEaaaaaaaaaa
-mEEEEEEEEYYYYYEaEEEYYYYYYYYYYYYYYYYYYYYEaaaaaaaaammaaaaaaaaaaaaaaaaaaaaEYYYYEEEEaaaaaaaaEEYYYYEaaaaaaaaaaaaaaaEEEEYYYYYYYYYYYYYYYYYEaaaaEEYEEaaaaaaaaa
-mEEEEEEEEYYYYYEEEYYYYYYYYYYYYYYYYYYYYYYEEaaaaaaaaammaaaaaaaaaaaaaaaaaaEEYYYYEaaaaaaaaaaaaEEYYYEaaaaaaaaaaaaaaaaEEEEYYYYYYYYYYYYYYYEEaaaaEYYYEEaaaaaaaa
-mEEEEEEEEEYYYYEYYYYYYYYYYEYYYYYYYYYYYYYYEEaaaaaaaaammaaaaaaaaaaaaaaaaEEYYYYYEaaaaaaaaaaaaaEYYYEaaaaaaaaaEEEEaaaaaaEEYYYYYYYYYYYYYEEaaaaaEYYYYEEaaaaaaa
-mEEEEEEEEEYYYYYYYYYYYYYYEEEEYYYYEYYYYYYYYEEaaaaaaaaammaaaaaaaaaaaaaaaEYYYYYYEaaaaaaaaaaaaaEYYYEaaaaaaaaaEYYEEEaaaaaEYYYYYYYYYYYYEEaaaaaaEYYYYYEEEaaaaa
-mEEEEEEEEEYYYYYYYYYEEEEEEEEEEEEEEEEEYYYYYYEEaaaaaaaaamaaaaaaaaaaaaaaaEYYYYYEEaaaaaaaaaaaaaEEYYEaaaaaaaaaEYYYYEEaaaaEYYYYYYYYYYYEEaaaaaaaEYYYYYYEEaaaaa
-mEEEEEEEEYYYYYYYYYEEaaaaaaaaaaaaaaaEYYYYYYYEaaaaaaaaamaaaaaaaaaaaaaaaEEYYYEEaaaaaaaaaaaaaaaEYYEEaaaaaaaaEEEYYYEaaaaEEYYYYYYYYEEEaaaaaaaaEYYYYYYEEaaaaa
-mEEEEEEEYYYYYYYYYEEaaaaaaaaaaaaaaaaEEEYYYYYEEaaaaaaaammaaaaaaaaaaaaaEEYYYEEaaaaaaaaaaaaaaaaEYYYEaaaaaaaaaaEEYYEaaaaaEEEEEEEEEEaaaaaaaaaaEYYYYYYEEaaaaa
-mEEEEEEEYYYYYYYEEEaaaaaaaaaaaaaaaaaaaEEEYYYYEEEaaaaaaamaaaaaaaaaaaaEEYYYYEaaaaaaaaaaaaaaaaaEYYYEEaaaaaaaaaaEYYEEaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYEEaaaaa
-mEEEEEEEYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaEEEYYYYEaaaaaaamaaaaaaaaaaaEEYYYYEEaaaaaaaaaaaaaaaaaEEYYYEaaaaaaaaaaEYYYEaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYEaaaaaa
-mEEEEEEYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYEaaaaaaammaaaaaaaaaaEYYYYYEaaaaaaaaaaaaaaaaaaaEYYYEEaaaaaaaaEEYYYEaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYEaaaaaa
-mEEEEEEEYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEEaaaaaaamaaaaaaaaaaEEYYYEEaaaaaaaaaaaaaaaaaaaEYYYYEEaaaaaaEEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYEaaaaaa
-mEEEEEEEYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYEaaaaaaamaaaaaaaaaEEYYYEEaaaaaaaaaaaaaaaaaaaaEEYYYYEaaaaaEEYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYEaaaaaa
-mEEEEEEEEEYYYEaaammmmmmmmmmmmmmmmmmmmmaaaaaEYYYEEaaaaaamaaaaaaaaEEYYYYEaaaaaaaaaaaaaaaaaaaaaaEYYYYEaaaaaEEYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYEaaaaaa
-mEEEEEEEEEYYYEaaamaaaaaaaaaaaaaaaaaaamaaaaaEYYYYEaaaaaamaaaaaaaEEYYYYYEaaaaaaaaaaaaaaaaaaaaaaEEYYYEEaaEEEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYEaaaaaa
-mEEEEEEEEEYYYEaaamaaaaaaaaaaaaaaaaaaamaaaaaEEYYYEaaaaaamaaaaaaEEYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaEYYYYEEEEYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYYEaaaaaa
-mEEEEEEEEYYYYEaaamaaaaaaaaaaaaaaaaaaamaaaaaaEEYYEaaaaaamaaaaaaEYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaEEEYYYEYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYYEaaaaaa
-mEEEEEEEYYYYYEaaamaaaaaaaaaaaaaaaaaaamaaaaaEEYYEEaaaaaamaaaaaaEEYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYYEaaaaaa
-mEEEEEEYYYYYYEaaamaaaaaaaaaaaaaaaaaaamaaaaEEYYYEaaaaaaamaaaaaaEYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYEEaaaaaa
-mEEEEEYYYYYYYEaaamaaaaaaaaaaaaaaaaaaamaaaaEYYYEEaaaaaaamaaaaaaEYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYYEaaaaaaa
-mEEEEYYYYYYEEEaaamaammmmmmmmmmmmmmmmmmaaaEEYYYEaaaaaaaamaaaaaaEYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaEYYYYYEEaaaaaaa
-mEEEEYYYMYYEaaaammaamaaaaaaaaaaaaaaaaaaaEEYYYYEaaaaaaaamaaaaaaEYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEYYYYYYEEEEaaaaaaaaaEEEEEEEEaaaaaaEYYYYYEaaaaaaaa
-mEEEYYYYYYYEaaaamaaamaaaaaaaaaaaaaaaaaaEEYYYYEEaaaaaaaamaaaaaaEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYYEEaaaaaaaEEYYEYYYEEEaaaaEYYYYYEaaaaaaaa
-mEEEYYYYYYYEaaammaaamaaaEEEaaaaaaaaaaaEEYYYYEEaaaaaaaaamaaaaaaEYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEYYYYYYYEEaaaaaEEYYYYYYYYYEEaaaEYYYYEEaaaaaaaa
-mEEEYYYYYYYEEammaaaamaaaEYEEaaaaaaaaaaEEYYYEEaaaaaaaaammaaaaaaEYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEYYYYYEaaaaaEYYYYEEEYYYYEaaEEYYYYEEaaaaaaaa
-mEEZZZeQeeZZEamaaaaamaaEEYYEaaaaaaaaEEEYYEEEaaaaaaaaaamaaaaaaaEEYYYYEEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYEaaaaaEEEEYEaEYYYYEEEEYYYYEEaaaaaaaaa
-mEEekkkzkxxZEamaaaaamaaEYYYEaaaaaaaEEYYYEEaaaaaaaaaaaamaaaaaaaaEYYYYYYYYEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEEEaaaaaaaaEEEaEEYYYYEEYYYYYEaaaaaaaaaa
-mEEZkkkVRpCZEamaaaaamaEEYYYEEaaaaaEEYYYEEaaaaaaaaaaaaamaaaaaaaaEEYYYYYYYYEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYYEEEaaaaaaaaaa
-mEEZTkkkkLkeEamaaaaamaEYYYYYEaaaaEEYYYYEaaaaaaaaaaaaaamaaaaaaaaaEEEYYYYYYEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYYYEaaaaaaaaaaaa
-mEEZTkkkkzkZEEmaaaaamaEYYYYYEaaEEEYYYYYEaaaaaaaaaaaaaamaaaaaaaaaaaEEEYYYYYYYEEEEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEYYYYYEEaaaaaaaaaaaa
-mEEZTykkklkeEEmaaaaamaEEYYYYEEEEYYYYYYEEaaaaaaaaaaaaaamaaaaaaaaaaaaaEEYYYYYYYYYEEEEEEaaaaaaaaaaaaaaaaaaaaaaaaaEEEEEEEEEEaaaaaaaaEEYYYYYEEaaaaaaaaaaaaa
-mEEeTkkkkzkZEEmaaaaamaaEEYYYEYYYYYYYEEEaaaaaaaaaaaaaaamaaaaaaaaaaaaaaEEEYYYYYYYYYYEEEEaaaaaaaaaaaaaaaaEEEEEEEEEYYYYYYYYEEaaaaaEEEYYYYYEEaaaaaaaaaaaaaa
-mEEZkkkkkzkZEEmaaaaamaaaEYYYYYYYYYEEEaaaaaaaaaaaaaaammmaaaaaaaaaaaaaaaaEEEEYYYYYYYYYYEEEEEEEaaaaaaaaEEEYYYYYEYYYYYYYYYYYEEEEEEEYYYYYYEEaaaaaaaaaaaaaaa
-mEEZkkkIkzkZEEmaaaaamaaaEEYYYYYYYEEaaaaaaaaaaaaaaaaamaaaaaaaaaaaaaaaaaaaaaEEEEYYYYYYYYYYYYYEEEEEEEaEEEYYYYYYYYYYYEEEEYYYYEYYEYYYYYYYEEaaaaaaaaaaaaaaaa
-mEEeFUkkkLkeEEmaaaaamaaaaEEYYYYYEEaaaaaaaammmmmmmmmmmaaaaaaaaaaaaaaaaaaaaaaaaEEEEEEEYYYYYYYYYYYYYEEEEYYYYYYYYYYEEEaaEYYYYYYYYYYYYYEEEaaaaaaaaaaaaaaaaa
-mEEZXdddddoZEEmaaaaamaaaaaEEEEEEEEaaaaaaaamaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEEEYYYYYYYYYYYYYYYYYEEEEEEaaaaEYYYYYYYYYYYYEEaaaaaaaaaaaaaaaaaaa
-mEEZeZeZZeeZEEmaaaaamaaaaaaaaaaaaaaaaaaaaamaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEYYYYYYYYYYYYYEEaaaaaaaaaEYYYYYYYYYEEEEaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEEEEEmaaaaammmmmmmmmmmmmmmmmmmmmmmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEEEEEEEEEEEEEEEaaaaaaaaaaEEEEEEEEEEEaaaaaaaaaaaaaaaaaaaaaaa
-mEEEEEEEEEEEEEmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-mmmmmmmmmmmmmmmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+wewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewewe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFCiCiCiCiCiCiCiCiCiCiCiCiGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFCiCiQmoQKcKcKcKcqJKcSDQmCiCiGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFCiCiQmQmXVvIvIKcKcvIsQDaQmQmCiCiGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFCiQmQmQmYzFoCqYEYEDVWxjhQmQmQmCiGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFCiQmQmQmFoByfwFoFortfwFoQmQmQmCiGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFCiQmQmQmrtFojhstFoWxFoYzQmQmQmCiGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFCiCiQmQmFofwFolgFortfwFoQmQmCiCiGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFCiCiQmFoFortFofwstGrFoQmCiCiGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFCiCiQmYzWxFortFoFoQmCiCiGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFCiCiQmjhFoFoFoQmCiCiGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFCiCiCiipipCiCiCiGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJGFBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFxnGFwe
+weGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFGFGFGFGFBJBJBJGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnGFwe
+XjxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFxnxnxnxnxnxnxnxnxnGFGFGFxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFZWGFBJBJBJBJBJBJGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFwe
+XjxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFxnxnGFGFGFGFGFGFGFZWZWBJBJBJBJIkIkIkGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnwe
+XjGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFZWGFBJBJIkIkIkGFZWZWGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJIkIkIkBJIkIkIkBJGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWGFBJBJBJIkGFZWZWZWGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFniBJIkIkBJBJIkBJBJBJIkBJBJBJBJGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFZWZWGFBJBJBJGFZWZWGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFBJSpniBJIkBJBJBJBJBJBJIkIkBJBJBJBJBJGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFZWGFBJBJIkGFGFZWGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFkhBJMLGFGFGFGFGFBJBJBJBJBJBJBJIkBJBJBJBJBJIkIkGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFZWGFGFBJBJIkGFZWGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFqFGFGFGFGFGFGFGFGFGFGFGFGFGFIkIkBJBJIkBJBJIkBJGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFZWGFBJIkBJBJGFZWGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkIkBJBJBJGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFZWGFIkIkBJniZWZWGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJIkBJBJBJIkIkGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFZWGFBJBJBJGFZWGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJIkBJGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFZWGFBJBJBJGFZWGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFxnxnGFGFGFZWGFBJIkBJGFZWGFZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJIkIkBJGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFxnGFGFGFGFZWZWGFIkIkBJGFGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFBJBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJGFGFGFGFGFGFGFGFGFGFEgBJccGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFxnGFGFGFGFGFGFZWZWBJBJIkIkBJBJIkBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFBJBJIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkGFIkIkBJBJBJIkIkGFBJGFGFGFGFBJIkBJBJDfGFGFGFGFGFGFxnxnGFGFGFGFGFGFxnxnGFGFGFGFGFGFZWZWBJBJBJBJIkIkBJBJIkBJBJniGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFBJBJIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkIkBJBJIkBJIkBJBJIkIkBJIkBJniIkgHIkBJBJIkBJOpBJGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFZWZWBJBJIkIkBJBJIkIkBJBJBJIkBJBJBJGFGFGFZWGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJIkBJBJIkIkGFGFGFGFGFGFGFGFBJIkIkgHIkBJBJBJIkIkBJWDGFGFGFGFGFGFxnxnGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFZWZWGFBJBJBJBJBJBJBJBJIkIkBJBJBJBJBJBJZWGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFIkIkBJGFGFGFGFGFGFGFGFGFGFGFGFGFIkIkBJBJIkniBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFIkIkIkBJIkIkOpBJBJGFGFGFGFGFGFGFxnxnGFGFGFGFGFxnGFGFxnxnxnGFGFGFGFGFZWZWGFZWZWZWZWGFBJBJBJBJBJBJBJBJIkIkZWGFGFGFGFGFGFGFxnxnGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFZWmjIkZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFIkIkGFGFGFGFGFGFGFGFGFGFIkIkBJBJBJBJIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkBJBJBJBJBJBJGFGFGFGFGFGFGFGFxnxnGFGFGFxnxnxnGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFZWZWZWBJBJIkIkBJBJIkBJBJZWGFGFGFGFGFGFGFxnGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFZWZWIkIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFBJBJGFGFGFGFGFGFGFBJIkIkBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFEgIkIkOpBJBJGFGFGFGFGFGFGFGFGFxnxnxnxnxnGFxnxnGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFZWZWGFBJBJBJBJBJBJBJZWZWGFGFGFGFGFGFxnGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFGFmjdiIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFBJBJIkBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkBJIkIkBJZWZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFZWGFBJIkIkBJBJBJBJGFZWGFGFGFGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFGFGFIkhnZWZWZWZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFBJBJIkIkBJBJBJIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkIkIkBJGFZWZWZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFZWZWIkIkBJBJIkBJBJZWGFGFGFGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFlOIkPIIkIknlIkIkdixkIkIkIZGFGFZWZWZWGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFBJIkBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFZWGFIkBJIkIkBJBJZWZWGFGFGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFZWIkxkIZIkIknRIklOQlIkIknRRclOvHsPKZZWGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFBJBJBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFZWZWZWZWZWGFGFGFZWZWZWGFZWZWZWZWGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFxnxnxnGFGFGFGFGFZWZWBJBJGFBJBJBJBJZWZWGFGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFZWmjIkIkIkmjmjZWIkIkIkIkPIRcQRjFYPvHGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFBJniBJIkIkGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFZWZWZWZWGFGFuLBJIkBJIkBJBJGFGFZWZWZWGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFxnxnGFGFGFGFGFZWZWGFZWGFBJBJBJGFZWZWGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFZWIkdiGFIkIkZWZWZWZWZWZWOyPIBuZWGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFBJIkIkGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFxnxnGFGFGFuLBJIkIkBJIkIkIkBJGFGFGFZWZWGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFBJIkIkGFZWGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFcXcXIkGFnRIkGFGFGFGFGFZWZWBuBuZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnGFGFGFZWZWZWGFBJIkIkBJBJIkIkBJGFGFZWZWGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFBJBJIkGFZWGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFcXgHgHZWIkGFGFGFGFGFGFGFZWZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFBJBJBJBJGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFZWZWZWGFGFIkBJIkIkIkIkGFGFZWZWGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFZWqtBJEQZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFZWZWZWGFGFIkBJIkIkBJGFGFGFZWGFGFGFGFGFxnxnGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFIkIkBJZWGFGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFIkIkEQGFGFGFGFGFxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFBJJXIkGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFZWZWZWGFBJBJBJIkBJBJGFGFZWGFGFGFGFGFxnxnGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFBJIkniZWGFGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFZWIkEQGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFBJBJIkGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFZWZWGFBJIkIkIkIkBJGFZWGFGFGFGFGFGFxnxnGFGFGFGFGFxnGFGFGFGFGFGFGFGFBJBJBJZWZWGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFZWZWIkeVdaGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFZWZWGFBJniBJIkBJGFZWZWGFGFGFGFGFxnxnGFGFGFGFxnGFGFGFGFGFGFGFGFBJIkBJGFZWGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFZWIkIkEQBJBJGFZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnGFGFxnGFGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFZWZWBJBJIkIkBJBJZWZWGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFGFIkIkBJGFZWGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFZWIkIkBJEQBJkhIkIkUHZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFGFBJIkIkGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFZWGFBJBJIkBJBJGFZWGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFIkBJBJZWGFGFGFxnxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFOmhPBJBJlViJBJIkkhBJIkIkBJBJBJBJIkIkBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFBJIkBJGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFZWZWIkIkIkIkBJZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJZWGFGFGFxnGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFIkIkBJLVXyBJBJBJBJBJBJFbBJLVBJIkBJIkBJBJIkGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFZWBJBJBJBJGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFZWGFIkIkIkBJGFZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJIkGFZWGFGFGFxnGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFqtvBBJEQvBBJZuBJBJBJkhIkkTBJBJBJvBBJBJBJIkGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFZWBJBJIkIkGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFZWGFBJIkBJBJGFZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJIkIkZWZWGFGFGFxnGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFZWZWBJBJEQIkIkGFGFGFGFZWZWGFGFGFGFIkBJBJBJKeGJYVGFGFGFZWZWGFGFGFGFGFxnxnGFGFGFGFZWBJIkBJGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFZWGFBJIkBJGFZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkIkBJGFZWGFGFGFGFxnGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFZWqtIkxVLHGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWIkIkIkvBBJGFUHGFIkUOBJZWZWGFGFxnGFGFGFGFBJIkIkBJGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFZWBJIkIkGFZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJIkBJBJGFZWGFGFGFGFxnGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFZWIkBJkhZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWSVGJBJBCSpBJIkIkBJccBJZWGFGFxnxnGFGFGFBJIkBJBJBJGFGFGFGFGFGFxnxnxnGFGFGFxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFZWGFBJIkBJGFZWZWGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJZWZWGFGFGFGFxnGFGFGFGFGFxnXj
+XjGFGFGFGFGFGFZWZWBJkhBJGFGFGFGFxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFAkSpSpBJBJBJBJBJIkGFGFGFGFxnGFGFGFGFBJBJBJIkIkGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFZWBJIkBJBJGFZWZWGFGFGFGFGFGFGFGFGFGFBJIkBJGFZWGFGFGFGFGFxnGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFZWGFBJBJBJZWGFGFGFxnGFGFGFGFGFxnxnGFGFGFGFGFGFGFAkSpBJBJgOBJPVBJBJBJGFGFGFxnGFGFGFGFGFIkBJBJIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFZWZWIkIkBJBJIkIkBJZWZWZWGFGFGFGFGFGFBJIkBJZWZWGFGFGFGFGFxnGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFZWIkIkBJkhGFGFGFGFxnGFGFGFGFGFGFGFxnGFGFGFGFZWZWAkIkBJSFBJBJBJBJIkGFGFGFGFxnxnGFGFGFGFGFBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFBJIkIkIkIkBJBJBJBJZWZWGFGFGFGFGFBJBJGFZWGFGFGFGFGFxnGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFIkkhBJZWGFGFGFGFxnGFGFGFGFGFGFGFxnxnGFGFGFZWGFEQBJBJBJniBJBJBJcbuFGFGFGFGFxnGFGFGFGFGFBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFZWIkIkBJniBJIkIkIkBJBJZWZWZWGFGFGFBJBJGFZWGFGFGFGFGFxnGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGJBJBJGFZWGFGFGFxnGFGFGFGFGFGFGFGFxnGFGFGFGFBJBJFhBJBJBJZXIkBJobSWGFGFGFGFxnGFGFGFGFGFBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFIkIkBJBJBJBJBJIkIkBJBJBJBJGFZWGFBJIkIkZWZWGFGFGFGFxnGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFBJBJBJGFGFQxGFGFxnGFGFGFGFGFGFGFGFxnxnGFGFGFIkBJBJBJBJIkIkBJBJgigiGFGFGFGFxnxnGFGFGFGFZWIkBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFBJBJIkBJBJGFGFGFGFBJBJBJIkBJBJZWZWBJBJIkGFZWGFGFGFGFxnGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFBJBJIkGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFxnGFGFGFIkIkBJBJcFxVBJBJBJIkZWGFGFGFGFGFxnxnGFGFGFZWIkBJBJGFGFBJBJBJIkIkBJBJBJIkBJBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFGFBJIkIkBJBJZWZWGFGFZWGFBJIkIkBJIkIkBJBJBJBJGFZWGFGFGFGFxnGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFBJIkZWGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFxnxnGFGFZWZWLGBJBJBJrPBJBJZWZWGFGFGFGFxnxnGFGFGFGFZWBJBJBJBJBJIkBJBJBJIkBJBJIkIkBJIkBJBJBJBJBJGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFBJIkIkBJGFZWZWGFGFGFZWZWGFGFBJBJBJIkBJBJIkIkZWGFGFGFGFxnGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFIkIkIkZWZWGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFxnxnGFGFGFZWBJBJniBJBJGFGFGFGFGFGFxnxnGFGFGFGFGFGFBJBJBJBJIkIkBJBJBJBJBJBJIkBJIkIkBJIkIkIkBJBJBJGFGFGFGFGFGFGFGFxnGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkBJBJBJIkBJZWZWZWGFGFGFGFGFGFGFZWZWGFGFBJBJIkIkniGFZWGFGFGFxnGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFBJBJBJZWGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFxnxnGFGFZWZWBJBJIkIkGFGFGFGFGFxnxnGFGFGFGFGFGFIkIkBJBJniGFGFGFGFGFGFGFGFGFGFGFGFBJIkBJBJIkIkBJBJGFGFGFGFGFGFGFxnGFGFGFGFxnGFGFGFGFGFZWZWZWGFGFGFGFGFGFGFGFGFGFGFBJIkIkBJIkIkZWZWZWGFGFGFGFGFGFGFGFGFGFGFZWZWZWGFBJBJBJGFZWGFGFGFxnGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFBJBJGJBJGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFBJIkGFGFGFGFGFxnxnGFGFGFGFGFGFBJIkBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJIkIkIkIkGFGFGFGFGFGFxnGFGFGFGFxnGFGFGFGFZWhduAGFZWZWGFGFGFGFGFGFGFGFBJBJIkBJIkIkZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWZWZWZWGFGFGFxnGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGFBJBJIkIkGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFZWBJBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJuUIkGFGFGFGFGFGFxnGFGFGFGFxnGFGFGFGFZWIkIkBJGFZWZWZWZWGFGFGFBJIkIkBJmjBJBJZWGFGFGFGFGFGFxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGFBJBJIkGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFxnxnGFGFGFZWZWBJBJIkBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFIkIkBJIkBJGFGFGFGFGFxnGFGFGFGFxnGFGFGFGFGFZWIkIkIkGFGFGFZWZWGFIkBJBJIkIkZWZWZWGFGFGFGFGFxnxnGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGFGFBJBJniGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFxnxnGFGFGFGFZWBJBJIkIkBJGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFIkIkBJIkGFGFGFGFGFxnGFGFGFGFxnGFGFGFGFGFZWGFBJIkBJBJBJGFGFBJIkIkIkVwZWGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFZWIkBJBJIkIkIkGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFxnxnGFGFGFZWZWBJBJBJIkGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFIkBJBJSpBJBJBJIkGFGFGFGFGFxnGFGFGFGFxnGFGFGFGFGFGFZWBJIkIkBJBJBJBJIkIkBJBJZWGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFZWIkIkBJIkBJBJGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFxnxnxnGFGFGFGFZWIkIkBJBJBJGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFGFGFIkIkBJBJSpBJBJIkBJGFGFGFGFGFxnGFGFGFGFxnxnGFGFGFGFGFGFZWBJBJIkIkBJBJIkBJBJZWGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFxnGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGFZWZWBJBJBJBJZWGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFZWZWZWBJIkBJBJBJZWGFGFGFxnxnxnxnGFGFGFxnGFGFGFGFGFGFGFVrBJIkBJBJIkdYBJIkIkBJGFGFGFGFGFxnGFGFGFGFGFxnGFGFGFGFGFGFGFZWBJBJIkIkBJIkIkZWZWGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGFGFZWGFIkBJBJZWGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFZWZWBJBJBJBJniZWZWZWGFGFGFxnGFGFGFGFGFGFxnxnGFGFGFGFGFGFccBJBJPVBJIkGFGFIkBJGFGFGFGFGFGFxnGFGFGFGFGFxnxnGFGFGFGFGFGFZWGFBJBJIkIkIkBJZWGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFZWZWGFIkIkBJMFZWGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFBJBJBJIkBJZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFBJBJIkIkizBJkaGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFxnxnGFGFGFGFGFGFZWIkIkBJBJBJBJZWZWGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGFGFGFGFBJBJGFZWGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFIkBJIkIkBJBJBJIkIkGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFBJBJBJBJBJBJBJBJGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFZWGFTnIkBJBJBJGFZWGFGFGFGFGFGFxnxnGFGFxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGFGFGFBJBJBJBJGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWZWIkIkBJBJBJBJBJBJBJIkBJBJBJGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFmaBJCkIuzkzkIuCkyeGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFZWZWIkIkBJIkGFZWGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGFGFBJIkIkBJZWGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFZWZWBJIkBJBJBJIkBJBJBJBJBJBJBJBJBJBJGFGFGFGFGFGFGFxnGFGFGFGFGFGFIkjLrMrMkVkVrMgKGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFZWBJIkIkIkGFZWGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGFBJBJBJIkIkZWGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFBJBJBJBJBJIkIkZWZWniBJBJIkIkBJIkIkBJGFGFGFGFGFGFGFxnGFGFGFGFBJBJIkIuIuIuIuBJBJGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWZWBJIkBJGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFZWGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGFZWBJBJBJBJBJniGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFBJBJBJBJBJBJIkGFGFZWZWBJIkIkBJobBJBJBJSFGFGFGFGFGFGFxnxnGFGFGFGFGFBJBJBJBJBJIkBJGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFZWIkIkBJZWGFGFGFGFGFxnGFGFGFGFGFGFZWZWZWZWGFGFZWZWZWZWGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFZWZWIkIkBJBJZWZWGFGFGFGFxnGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFBJBJBJIkBJBJGFGFGFGFZWZWBJBJBJBJBJIkBJBJBJZWGFGFGFGFGFxnxnGFGFGFGFGFIuIuIuzkLXBJPBGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFZWBJIkBJZWZWGFGFGFxnxnGFGFGFGFGFZWZWBJxqIkIkIkIkIkBJZWZWZWGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnwe
+XjGFGFGFGFGFGFGFGFBJBJBJBJBJGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFBJBJBJIkBJZWGFGFGFGFGFGFGFBJBJIkYVIkGJIkIkyYZWGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWZWBJIkBJGFZWGFGFGFxnGFGFGFGFGFZWGFBJIkIkIkBJIkIkHQIkqNqNGFZWGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnXj
+XjGFGFGFGFGFGFGFGFBJBJBJBJBJGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFIkIkBJBJBJZWGFGFGFGFGFGFGFGFIkIkBJBJhdIkxoJIrZZWGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWZWIkIkIkGFZWGFGFxnxnGFGFGFGFGFZWGFBJZSTHBJhkIkmnIkhkIkIkIkGFZWGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFBJIkIkBJBJBJGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFIkBJBJBJZWZWGFGFGFGFGFGFGFGFGFGFZWBJMpuUIkJIBJBJZWGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFZWGFBJBJIkZWZWGFxnxnGFGFGFGFZWZWGFBJBJIkIkmdIkBJiNBJdyTHBJIkIkZWGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFBJIkBJIkGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFBJBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFZWZWBJiNIkXYSFBJBJZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFZWBJIkBJIkZWGFGFxnGFGFGFGFZWZWGFqNDQHQIkBJBJnknknkUoIkBJBJIkIkZWGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFBJBJBJBJZWGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWBJBJBJBJZWGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWYVYVXYRuBJBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFIkBJIkGFZWGFGFGFGFGFGFZWZWGFBJwBIkmnBJnknknkUoUoUoUoBJBJhkMSZWGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFBJBJBJBJBJZWZWGFGFGFxnGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWBJBJBJBJZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJIkBJBJBJBJIkBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWGFGFGFZWGFGFGFGFGFGFGFGFGFGFGFGFGFZWBJTnIkBJGFZWGFGFGFGFGFGFZWGFIkIkIkdyBJnknknkUoUonknkUoIkmnIkBJZWGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFZWBJBJBJGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFxnGFGFGFZWZWZWIkIkBJZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJIkIkBJPVBJIkBJUOBJBJBJBJBJGFGFGFGFGFGFGFGFZWIkIkBJBJBJZWZWZWGFGFGFGFGFGFGFGFGFGFZWGFBJIkBJIkGFZWGFGFGFGFGFZWZWBJmdIkIkIkkSUoUoUoUoUoUoUoUoIkbLBJBJZWGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFZWIkBJBJGFGFGFGFxnGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFZWBJIkIkBJBJZWGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFBJIkGJBJIkIkBJBJBJIkIkBJIkIkBJBJGFGFZWZWIkIkEnBJBJBJBJIkIkIkGFIkIkGFGFGFGFGFGFZWGFBJIkBJIkIkZWZWGFGFGFGFZWZWGFpZtiIkIkBJnkUoUonknknknknkUoIkdyBJqNZWGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFIkIkBJGFGFZWGFxnxnxnxnxnxnxnGFGFxnxnGFGFGFGFGFZWBJBJBJBJBJZWGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFBJIkIkBJBJIkIkBJBJIkBJIkBJBJGFGFZWZWBJIkBJBJBJIkIkIkBJBJBJBJBJBJBJBJZWZWZWZWGFIkIkIkIkIkZWZWGFGFGFGFZWZWGFBJIkhkIkIkUoUoUoUoUoUonknknkUoUoIkIkqNZWGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFZWIkBJBJZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJBJGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkBJBJBJIkIkBJIkIkBJBJBJGFGFZWBJBJBJBJBJIkIkBJBJIkIkIkIkIkBJBJBJBJIkIkZWZWIkIkIkIkIkZWZWZWZWGFZWZWBJBJoRIkIkmdIkUonknknknkUonknkUoUonkIkJEBJZWGFGFxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFZWBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWGFGFGFBJBJBJIkIkIkZWGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWBJBJBJBJBJIkIkniBJBJBJBJIkBJBJBJIkBJBJBJBJIkBJBJBJBJIkIkBJIkIkBJIkIkIkIkIkIkIkIkIkIkIkIkIkcXcXIkIkIkmdIkBJBJnknknknknknkUoUoUonknkIkBJIkGFZWGFxnxnGFGFGFGFGFGFxnxnxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFZWBJBJBJGFGFGFGFGFGFGFGFGFGFBJBJBJBJBJZWZWZWZWGFBJBJBJBJBJIkZWGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWGFGFBJBJBJIkIkBJBJBJIkIkBJIkIkBJBJBJBJIkBJBJBJBJBJIkBJBJBJIkBJIkIkIkIkIkIkIkIkIkIkIkIkcXcXBJBJBJmdHQmdIkIkUoUoUonkUoUoUonknkUoIkIkIkGFZWGFxnGFGFGFGFGFGFGFGFGFxnGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFBJBJBJBJZWGFGFGFZWZWGFIkIkBJBJBJIkBJBJBJBJIkIkBJBJBJBJBJBJGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWGFGFBJBJBJBJIkBJZWZWGFGFGFGFGFGFZWZWZWIkIkBJBJGFGFZWZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFBJWTBJIkIkIkIkqNnkUoUoUoUonkUoUoIkIkmnTHZWZWGFxnGFGFGFGFGFGFGFGFGFGFxnGFGFGFXj
+XjGFGFGFGFGFGFGFZWIkBJBJIkIkZWGFGFGFGFBJIkIkBJBJBJIkIkBJBJBJBJBJIkBJBJIkBJBJBJGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWGFIkIkBJBJZWZWZWGFGFGFGFGFGFGFGFGFGFZWBJBJIkIkGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFZWZWqNpZkSIkIkBJUonknkUoUoIkHQIkkSWzqNZWGFGFxnGFGFGFgVGFGFGFGFGFGFxnxnGFGFXj
+XjGFGFGFGFGFGFGFZWBJBJBJBJIkZWGFGFBJBJBJBJBJBJBJBJIkBJBJBJBJBJBJIkBJBJIkIkBJBJGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFBJIkIkBJZWGFGFGFGFGFGFGFGFGFGFGFGFZWZWBJBJIkGFGFxnxnxnxnGFxnxnxnxnxnxnxnxnxnGFGFZWZWGFbLBJIkIkBJIkiNqNBJIkIkIkIkIkbuZWZWGFGFxnGFGFFoFoRbGFGFGFGFGFGFxnGFGFXj
+XjGFGFGFGFGFGFGFZWZWBJBJBJBJGFIkIkBJBJIkBJBJBJIkniZWBJBJIkBJBJBJIkIkBJBJIkBJBJBJGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFBJBJBJBJZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFZWBJuUIkGFGFxnxnGFGFGFxnGFGFGFGFGFGFGFxnxnGFGFGFZWZWIkIkBJBJIkIkIkIkIkkSBJIkIkZWZWGFGFGFxnGFGFcDEEgVquGFGFGFGFGFxnxnGFXj
+XjGFGFGFGFGFGFGFGFGFBJBJBJBJBJBJIkIkBJBJBJBJIkIkGFZWZWZWIkIkBJBJGFIkIkBJBJBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFBJIkBJBJBJBJZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJIkBJGFGFGFxnGFGFGFxnGFGFGFxyBJGFGFGFxnxnGFGFGFZWIkBJdykSBJMLqNmdIkIkIkIkZWZWGFGFGFGFxnGFGFxTWmQrXXXXGFGFGFGFGFxnGFXj
+XjGFGFGFGFGFGFGFZWZWBJBJBJBJBJBJBJBJBJZWZWZWGFGFGFGFGFGFGFGFGFGFZWZWZWZWniBJBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFBJIkBJIkIkGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFIkIkGFGFGFxnGFGFGFxnGFGFGFBJqxBJBJGFGFxnxnGFGFZWIkIkmdBJBJIkIkIkBJBJBJZWZWGFGFGFGFGFxnGFGFgVXXXXgVznlnGFGFGFGFxnGFXj
+XjGFGFGFGFGFGFGFZWIkIkBJIkBJBJBJBJBJZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWBJBJIkBJBJBJBJGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFBJBJIkGFGFGFGFGFGFGFxnxnGFGFxnxnGFGFGFGFGFIkBJGFGFGFGFxnGFGFxnGFGFGFGFGFWTBJBJGFGFxnxnGFGFZWBJBJIkIkIkBJBJBJGFZWGFGFGFGFGFGFGFxnGFGFFlFoXXFoznSNGFGFGFGFxnxnXj
+XjGFGFGFGFGFGFGFBJBJIkBJIkIkBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFIkIkBJBJIkGFGFGFGFGFGFGFGFGFGFxnxnGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFIkIkBJGFGFGFGFGFGFGFGFxnGFGFGFGFxnGFGFGFGFGFBJIkIkGFGFGFxnxnGFxnxnGFGFGFGFGFIkBJGFGFGFxnGFGFGFZWZWZWZWZWZWGFZWZWGFGFGFGFGFGFGFxnGFGFGFFogVXXukXXXXGFGFGFGFGFxnXj
+XjGFGFGFGFGFGFGFBJBJBJBJBJIkBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJIkIkGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFZWZWBJIkBJuUGFGFGFGFGFGFGFxnxnGFGFGFGFxnxnGFGFGFGFBJBJIkGFGFGFGFxnGFGFxnxnGFGFGFGFIkIkGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFXXXXXXXXXXaQGFGFGFGFGFxnXj
+XjGFGFGFGFGFGFGFBJBJBJBJBJZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJIkBJBJGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFxnGFGFGFGFGFBJBJBJGFGFGFxnGFGFGFxnGFGFGFGFBJIkBJGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFzKgVdTrIzKdTGFGFGFGFGFxnXj
+XjGFGFGFGFGFGFniBJBJBJBJIkZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFBJIkIkBJBJGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFxnxnGFGFGFGFBJBJuUGFGFGFGFxnxnxnxnGFGFGFGFBJIkBJGFGFGFxnxnGFxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFYEBJIkBJIkGFGFGFGFGFxnXj
+XjGFGFGFGFGFGFGFIkBJBJBJIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkIkBJGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFBJIkBJZWGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFxnGFGFGFGFIkIkBJBJGFGFGFxnxnGFGFGFGFGFIkIkBJBJGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFBJIkBJBJIkGFGFGFGFGFxnXj
+XjGFGFGFGFGFGFGFgwIkBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkBJIkZWGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFBJBJBJGFZWZWGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFIkIkBJIkGFGFGFGFGFGFGFGFBJIkBJGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFZWBJIkIkIkIkGFGFGFGFGFxnXj
+XjGFGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFBJBJBJZWZWGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFZWZWBJBJIkIkGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFBJBJIkIkGFGFGFGFGFGFGFGFJXMSGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFZWBJBJBJIkIkZWGFGFGFGFxnXj
+XjGFGFGFGFGFGFGFGFZWBJBJIkGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFBJBJIkIkZWGFGFGFGFGFGFxnGFGFGFGFGFGFGFZWZWBJBJBJIkBJGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFBJBJIkGFGFGFGFGFGFGFIkIktiGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFBJIkIkIkBJZWGFGFGFGFxnXj
+XjGFGFGFGFGFGFGFZWZWBJBJBJGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFBJBJIkZWGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFIkIkBJBJBJZWZWGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFBJIkIkBJGFGFGFGFBJIkIkBJGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWBJBJIkBJBJBJZWGFGFGFGFxnXj
+XjGFGFGFGFGFGFGFZWIkIkBJBJGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFZWZWBJBJGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFIkIkBJIkIkIkGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFIkBJBJGFBJBJIkIkBJGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWBJBJBJIkIkBJZWGFGFGFGFxnXj
+XjGFGFGFGFGFGFGFBJBJBJBJBJGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFZWZWBJBJGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFBJBJIkBJGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFIkIkIkIkBJIkIkBJGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWIkIkBJBJIkBJZWGFGFGFGFxnXj
+XjGFGFGFGFGFGFIkBJBJBJBJBJGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWZWIkIkBJGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFuUBJBJBJGFZWGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFBJBJBJIkBJGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFIkBJBJBJIkGFZWGFGFGFGFxnXj
+XjGFGFGFZWZWBJLnBJBJBJBJBJZWGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFZWBJBJBJZWGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFBJIkIkZWZWGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFBJBJIkIkBJGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWBJIkIkIkIkBJGFZWGFGFGFGFxnXj
+XjGFGFGFZWIkIkBJBJvBIkZWZWZWGFGFGFxnGFGFxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFBJBJBJZWGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFZWIkIkBJZWZWGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFBJBJIkBJBJBJBJGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJIkBJIkBJGFZWZWGFGFGFxnGFXj
+XjGFGFGFZWBJvBBJFjBJIkZWGFGFGFGFxnxnGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFIkIkBJBJZWGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFZWBJBJIkGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFIkIkIkIkBJBJGFGFGFGFGFGFGFGFxnGFGFGFGFZWZWZWZWZWGFGFGFZWGFGFGFGFGFZWBJIkBJBJBJGFZWGFGFGFGFxnGFXj
+XjGFGFGFgwBJBJYVvBIkBJGFGFGFGFGFxnGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFniIkBJBJZWZWGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFZWBJBJIkIkGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFBJBJBJIkIkIkuUuLGFGFGFGFGFGFGFGFGFGFZWBJBJGFBJIkIkGFZWZWGFGFGFGFZWBJBJIkIkBJZWGFGFGFGFxnxnGFXj
+XjGFGFGFIkvBBJBJBJBJBJGFGFGFGFxnxnGFGFGFxnGFGFGFGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFZWBJIkBJBJGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFBJBJIkIkIkBJBJGFGFGFGFGFGFGFGFGFUjxyIkoZBJIkBJBJBJGFZWZWGFGFGFBJBJBJIkGFGFGFGFGFGFxnGFGFXj
+XjGFGFGFZlBgBgBgBJBJIkGFGFGFxnxnGFGFGFGFxnGFGFGFGFjSGFGFGFGFGFGFGFGFGFGFGFGFZWZWBJBJBJGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFBJIkIkBJZWZWGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFBJIkIkIkuLGFGFGFGFGFGFGFIkDBIkBJGFZWGFIkIkIkBJZWGFZWGFZWBJIkIkBJZWZWGFGFGFGFxnGFGFXj
+XjGFGFjbjbjbmHUImHmHjbjbGFGFxnGFGFGFGFGFxnGFGFZWZWBJBJGFGFGFGFGFGFGFGFGFGFZWZWIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFxnGFGFGFGFGFGFGFBJIkBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFBJuLIBIkGFGFGFGFGFGFGFGFGFGFBJGFGFZWBJBJIkBJGFZWZWGFBJBJIkBJGFGFGFGFGFGFxnGFGFGFXj
+XjGFGFmHjmFoFoGmFokFPyjbGFGFxnGFGFGFGFGFxnGFGFZWBJBJBJGFGFGFGFGFGFGFGFGFGFBJIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFxnGFGFGFGFGFGFBJBJIkIkIkIkBJuUZWGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWBJBJIkBJGFGFBJIkIkBJBJZWGFGFGFGFGFxnGFGFGFXj
+XjGFGFjbFoFoFoZtMAERYejbGFGFxnGFGFGFGFGFxnGFGFZWBJeIXnZWGFGFGFGFGFGFGFGFBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFxnxnGFGFGFGFZWZWBJBJBJIkIkBJBJIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFIkIkIkBJBJBJIkBJZWZWGFGFGFGFGFxnGFGFGFGFXj
+XjGFGFjbAZFoFoFoFoYLFomHGFGFxnGFGFGFGFGFxnGFGFBJBJBJBJjSGFGFGFGFGFGFGFBJBJBJIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFxnxnGFGFGFGFZWZWGFBJBJIkIkBJIkGFGFGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnGFGFxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFZWZWBJIkIkBJBJIkBJGFGFGFGFGFGFGFxnGFGFGFGFXj
+XjGFGFjbAZFoFoFoFoGmFojbGFGFxnGFGFGFGFGFxnGFGFBJBJxyBJBJGFZWGFGFGFGFBJBJBJIkIkGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFxnxnxnGFGFGFGFZWZWZWBJIkBJIkBJBJBJGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFZWGFBJIkIkIkuUGFZWGFGFGFGFGFxnGFGFGFGFGFXj
+XjGFGFjbAZEsFoFoFoZkFomHGFGFxnGFGFGFGFGFxnGFGFZWBJBJBJBJGFZWGFGFIkIkBJBJBJBJZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFBJBJIkIkBJBJBJIkBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFBJIkIkBJBJZWGFGFGFGFGFGFxnxnGFGFGFGFGFXj
+XjGFGFmHAZFoFoFoFoGmFojbGFGFxnGFGFGFGFGFxnGFGFZWZWBJSpSpGFIkBJBJBJBJBJBJGFZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFxnxnxnGFGFGFZWZWGFBJIkIkBJIkIkBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFZWGFZWZWIkIkBJBJIkBJBJBJZWZWGFGFZWGFGFGFZWZWBJBJIkBJBJZWZWGFGFGFGFGFGFxnGFGFGFGFGFGFXj
+XjGFGFjbFoFoFoFoFoGmFojbGFGFxnGFGFGFGFGFxnGFGFGFGFBJBJSpIkIkBJBJIkIkZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFZWGFGFGFBJBJBJBJIkBJIkBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFBJBJBJBJBJGFBJBJIkBJBJIkIkBJIkIkBJGFGFZWGFGFZWZWBJIkIkIkIkBJZWGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFXj
+XjGFGFjbFoFoFoXQFoGmFojbGFGFxnGFGFGFGFGFxnGFGFGFZWZWBJBJBJBJBJIkIkZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFZWZWZWZWZWZWIkIkBJIkIkIkBJIkIkBJIkIkZdGFZWZWZWZWZWGFGFGFZWBJBJIkBJBJIkIkBJBJuUBJGFZWZWZWIkBJBJIkGFBJBJGFBJBJIkBJBJBJIkZWZWGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFXj
+XjGFGFmHCVeHFoFoFoYLFomHGFGFxnGFGFGFGFGFxnGFGFGFZWZWZWBJBJBJIkIkGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFZWZWGFGFZWZWIkBJBJBJBJBJIkBJBJBJuUBJIkGFZWZWGFIkIkBJIkIkBJIkBJBJBJGFZWGFZWGFGFBJBJBJIkBJIkIkBJBJIkIkBJBJGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFXj
+XjGFGFjbacpIpIpIpIpIwxjbGFGFxnGFGFGFGFGFxnGFGFGFGFGFGFGFZWZWZWGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnGFGFGFGFGFGFGFGFGFZWZWGFZWGFZWBJBJBJIkuUIkIkIkIkBJIkIkIkBJIkIkBJGFZWGFZWZWZWZWGFGFGFGFIkBJIkIkBJBJBJIkIkBJBJBJGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFjbmHjbmHjbjbmHmHjbGFGFxnGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFZWZWZWZWVwIkBJBJBJIkIkBJBJBJBJBJBJGFGFGFGFGFGFGFGFGFGFGFGFIkIkBJBJBJIkIkIkuUZWZWGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFZWGFGFGFGFZWZWZWZWZWGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFGFxnGFGFGFGFGFxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFxnxnxnxnxnxnxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFxnxnGFGFGFGFGFGFGFGFGFGFGFGFGFXj
+XjXjXjXjXjXjXjXjXjXjXjXjXjXjXjweweweweweweweweweweweweweweweweweweweweweweweweweweweweweweweweXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjweweweweweweweweweweweweweweweweXjXjXjXjXjXjXjXjXjXjweweweweweweXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXjXj
 "}
