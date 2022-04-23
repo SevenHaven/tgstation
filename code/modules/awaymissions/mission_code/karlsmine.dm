@@ -13,6 +13,5 @@
 	icon_state = "awaycontent2"
 	requires_power = TRUE
 	static_lighting = FALSE
-	base_lighting_alpha 15
 	power_environ TRUE
 	power_equip TRUE
