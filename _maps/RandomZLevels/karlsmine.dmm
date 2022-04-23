@@ -1,7 +1,7 @@
 "a" = (/turf/open/space/basic,/area/space)
 "d" = (/obj/effect/decal/cleanable/blood/footprints{dir = 4},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "e" = (/turf/closed/wall/rust,/area/awaymission/karlsmine/caves)
-"k" = (/obj/effect/landmark/latejoin,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
+"k" = (/obj/effect/landmark/latejoin,/turf/open/floor/plating,/area/space)
 "l" = (/obj/machinery/portable_atmospherics/canister/oxygen,/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
 "m" = (/turf/closed/indestructible/rock,/area/space)
 "o" = (/obj/machinery/vending/boozeomat/all_access,/turf/open/floor/plating,/area/awaymission/karlsmine/caves)
