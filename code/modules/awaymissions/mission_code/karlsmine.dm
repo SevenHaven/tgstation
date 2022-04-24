@@ -2,7 +2,6 @@
 
 //Areas
 /area/awaymission/karlsmine
-	name = "Karls Mine"
 /area/awaymission/karlsmine/caves
 	name = "Karls Caves"
 	icon_state = "awaycontent2"
