@@ -2,12 +2,14 @@
 
 //Areas
 /area/awaymission/karlsmine
+
 /area/awaymission/karlsmine/caves
 	name = "Karls Caves"
 	icon_state = "awaycontent2"
 	requires_power = FALSE
 	static_lighting = TRUE
 	base_lighting_alpha = 15
+	
 /area/awaymission/karlsmine/gateway
 	name = "Karls Gate"
 	icon_state = "awaycontent3"
