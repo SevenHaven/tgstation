@@ -3,7 +3,6 @@
 //Areas
 /area/awaymission/karlsmine
 name = "Karls Mine"
-icon_state "awaycontent1"
 /area/awaymission/karlsmine/caves
 	name = "Karls Caves"
 	icon_state = "awaycontent2"
